@@ -1,0 +1,11 @@
+{
+  "json_version": 3,
+  "variables":
+  [
+    {
+      "code": "bite",
+      "replacement": "C:/Users/user/Desktop/Новая папка/Bite.png",
+      "force_tint": "False"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "json_version": 3,
+  "name": "blueprint_001",
+  "type": "card",
+  "layout_size_mm": "63.5, 88.9",
+  "main_panel_name": "number",
+  "hint_order_index": 0,
+  "front_layers":
+  [
+    {
+      "name": "default",
+      "panels":
+      [
+        {
+          "name": "panel_010",
+          "data":
+          {
+            "layout_position": "31.66586, 12.47764",
+            "layout_size": "55.99972, 18.19059",
+            "panel_type": "text",
+            "value": "Text",
+            "color": "#161616FF",
+            "text_alignment_h": "left",
+            "text_size": "3"
+          }
+        },
+        {
+          "name": "panel_001",
+          "data":
+          {
+            "layout_position": "31.73317, 44.43317",
+            "layout_size": "63.90867, 89.2029",
+            "panel_type": "procedural",
+            "value": "Text",
+            "procedural_border": "2.5",
+            "color": "#121212FF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "panel_005",
+          "data":
+          {
+            "layout_position": "7.181766, 71.87892",
+            "layout_size": "10, 10",
+            "panel_type": "text",
+            "value": "<b>1</b>",
+            "color": "#FFFFFFFF",
+            "text_font": "Arial Black"
+          }
+        },
+        {
+          "name": "panel_004",
+          "data":
+          {
+            "layout_position": "7.181766, 71.87892",
+            "layout_size": "10, 10",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FF0000FF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "panel_006",
+          "data":
+          {
+            "layout_position": "7.181766, 81.80717",
+            "layout_size": "10, 10",
+            "panel_type": "text",
+            "value": "<b>1</b>",
+            "color": "#000000FF",
+            "text_font": "Arial Black"
+          }
+        },
+        {
+          "name": "panel_009",
+          "data":
+          {
+            "layout_position": "29.89897, 81.80717",
+            "layout_size": "32.88548, 10",
+            "panel_type": "text",
+            "value": "Text",
+            "color": "#161616FF",
+            "text_alignment_h": "left",
+            "text_font": "Impact"
+          }
+        },
+        {
+          "name": "panel_007",
+          "data":
+          {
+            "layout_position": "29.98311, 81.80717",
+            "layout_size": "36.08271, 10",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FEFEFEFF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "panel_008",
+          "data":
+          {
+            "layout_position": "48.99825, 86.77129",
+            "layout_size": "17.7716, 10",
+            "layout_rotation": "55",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FEFEFEFF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "panel_003",
+          "data":
+          {
+            "layout_position": "7.181766, 81.80717",
+            "layout_size": "10, 10",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FFDD00FF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "layout_position": "31.58172, 56.14516",
+            "layout_size": "63.90868, 65.81259",
+            "panel_type": "image",
+            "value": "C:/Users/user/Desktop/psd+al/Morning.png",
+            "img_fit_mode": "fitheight"
+          }
+        }
+      ]
+    }
+  ]
+}

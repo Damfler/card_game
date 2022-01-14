@@ -1,0 +1,104 @@
+{
+  "json_version": 3,
+  "name": "set_001",
+  "blueprint_name": "blueprint_001",
+  "hint_order_index": 0,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1642165403,
+      "details":
+      [
+        {
+          "name": "text_top",
+          "data":
+          {
+            "value": "Гашук"
+          }
+        },
+        {
+          "name": "border",
+          "data":
+          {
+            "color": "#75C9E6FF"
+          }
+        },
+        {
+          "name": "text_bottom",
+          "data":
+          {
+            "value": "<align=\"center\">Вроде богатый, но не богатый</align>"
+          }
+        },
+        {
+          "name": "logo",
+          "data":
+          {
+            "value": "C:/Users/user/Desktop/psd+al/GkgfHBnB7DQ.jpg",
+            "img_fit_mode": "fitwidth",
+            "img_zoom": "1.1"
+          }
+        },
+        {
+          "name": "color_003",
+          "data":
+          {
+            "panel_visible": "True",
+            "icon_fit": "True",
+            "value": "<b>12</b>"
+          }
+        },
+        {
+          "name": "panel_010",
+          "data":
+          {
+            "value": "Призывает 2 \"Малознакомые друзья Гашука\""
+          }
+        },
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "C:/Users/user/Desktop/psd+al/GkgfHBnB7DQ.jpg"
+          }
+        },
+        {
+          "name": "panel_009",
+          "data":
+          {
+            "value": "Гашук"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1642165844,
+      "details":
+      [
+        {
+          "name": "panel_010",
+          "data":
+          {
+            "value": "Хз какой из, но это брат!"
+          }
+        },
+        {
+          "name": "panel_009",
+          "data":
+          {
+            "value": "Брат"
+          }
+        },
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "C:/Users/user/Downloads/photo_2021-09-10_17-20-27.jpg"
+          }
+        }
+      ]
+    }
+  ]
+}
