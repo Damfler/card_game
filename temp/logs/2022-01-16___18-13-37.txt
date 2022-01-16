@@ -1,0 +1,1791 @@
+Initialize engine version: 2021.2.2f1 (5e2b1e92c7f8)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/TabletopCreatorDemo/TabletopCreator_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1; jobified=1
+Renderer: Radeon 540X Series
+Vendor:   ATI Technologies Inc.
+Version:  4.5.14761 Core Profile Forward-Compatible/Debug Context 21.30.23.01 30.0.13023.1012
+GLES:     0
+ GL_AMDX_debug_output GL_AMD_blend_minmax_factor GL_AMD_conservative_depth GL_AMD_debug_output GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_sample_positions GL_AMD_gcn_shader GL_AMD_gpu_shader_half_float GL_AMD_gpu_shader_int16 GL_AMD_gpu_shader_int64 GL_AMD_interleaved_elements GL_AMD_multi_draw_indirect GL_AMD_name_gen_delete GL_AMD_occlusion_query_event GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_sample_positions GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_atomic_counter_ops GL_AMD_shader_stencil_export GL_AMD_shader_stencil_value_export GL_AMD_shader_trace GL_AMD_shader_trinary_minmax GL_AMD_sparse_texture GL_AMD_sparse_texture_pool GL_AMD_stencil_operation_extended GL_AMD_texture_cube_map_array GL_AMD_texture_texture4 GL_AMD_transform_feedback3_lines_triangles GL_AMD_transform_feedback4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_compatibility GL_ARB_a
+rrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_distance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_get_
+texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_draw_parameters GL_ARB
+_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_shadow_ambient GL_ARB_sparse_buffer GL_ARB_sparse_texture GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_cube_map_array GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_textur
+e_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_snorm GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_envmap_bumpmap GL_ATI_fragment_shader GL_ATI_separate_stencil GL_ATI_texture_compression_3dc GL_ATI_te
+xture_env_combine3 GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_copy_buffer GL_EXT_copy_texture GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_histogram GL_EXT_memory_object GL_EXT_memory_object_win32 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_semaphore GL_EXT_semaphore_win32 GL_EXT_separate_specular_color GL_EXT_shader_image_load_s
+tore GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_EXT_subtexture GL_EXT_texgen_reflection GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object GL_EXT_texture_compression_bptc GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_sRGB_R8 GL_EXT_texture_sRGB_RG8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_storage GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_IBM_texture_mirrored_repeat GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_s
+hader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KTX_buffer_region GL_NV_alpha_to_coverage_dither_control GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_explicit_multisample GL_NV_float_buffer GL_NV_half_float GL_NV_primitive_restart GL_NV_shader_atomic_int64 GL_NV_texgen_reflection GL_NV_texture_barrier GL_OES_EGL_image GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_SUN_multi_draw_arrays GL_WIN_swap_hint WGL_EXT_swap_control
+OPENGL LOG: Creating OpenGL 4.5 graphics device ; Context level  <OpenGL 4.5> ; Context handle 65537
+Microsoft Media Foundation video decoding to texture disabled: graphics device is OpenGL Core, only Direct3D 11 and Direct3D 12 (only on desktop) are supported for hardware-accelerated video decoding.
+<RI> Initializing input.
+<RI.Hid> Failed to create device file:
+ 2 Не удается найти указанный файл.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 14.904500 ms
+21:13:29 [Analytics] Loaded Client ID: 10f43a16-b648-4973-bfb3-a45b27cb08a0
+> Assets\Scripts\Services\Analytics\AnalyticsService.cs:57 > Load()
+21:13:29 [Analytics] Start session request
+> Assets\Scripts\Services\Analytics\AnalyticsService.cs:217 > StartSession()
+21:13:29 [Analytics] Event request: General/Open App
+> Assets\Scripts\Services\Analytics\AnalyticsService.cs:288 > SendEvent()
+21:13:30 [Environment] UID: e19129152612f0c4c25062e8786decd8f1eae7ff (BGUID: aa59eb9e69d5e174b92b4df5f35d3530)
+21:13:30 [Environment] APP: TabletopCreator 2021.2.11a r206 Free (BUILD: WindowsPlayer x64 20211224_121905 UTC) (UNITY: 2021.2.2f1) (LANG: ru)
+21:13:30 [Environment] OS: Windows 10  (10.0.22526) 64bit (x64) (LANG: Russian), CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  (Logical Cores: 8), RAM: 9.94 GB
+21:13:30 [Environment] GPU: ATI Technologies Inc. - Radeon 540X Series, GPU_DRIVER: OpenGLCore (OpenGL 4.5.14761 Core Profile Forward-Compatible/Debug Context 21.30.23.01 30.0.13023.1012), VRAM: 1.98 GB, SCREEN DPI: 120
+21:13:30 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 16384, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Linear
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 34631.
+Total: 24.645400 ms (FindLiveObjects: 3.927100 ms CreateObjectMapping: 1.552700 ms MarkObjects: 18.482400 ms  DeleteObjects: 0.681700 ms)
+21:13:31 [Analytics] Internet connectivity: True
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+21:13:37 [Analytics] Event request: Project/Load
+21:13:37 [Project] Load: C:/Users/gashu/Documents/GitHub/card_game/test.tcp
+21:13:37 [Environment] UID: e19129152612f0c4c25062e8786decd8f1eae7ff (BGUID: aa59eb9e69d5e174b92b4df5f35d3530)
+21:13:37 [Environment] APP: TabletopCreator 2021.2.11a r206 Free (BUILD: WindowsPlayer x64 20211224_121905 UTC) (UNITY: 2021.2.2f1) (LANG: ru)
+21:13:37 [Environment] OS: Windows 10  (10.0.22526) 64bit (x64) (LANG: Russian), CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx  (Logical Cores: 8), RAM: 9.94 GB
+21:13:37 [Environment] GPU: ATI Technologies Inc. - Radeon 540X Series, GPU_DRIVER: OpenGLCore (OpenGL 4.5.14761 Core Profile Forward-Compatible/Debug Context 21.30.23.01 30.0.13023.1012), VRAM: 1.98 GB, SCREEN DPI: 120
+21:13:37 [Environment] SHADER_LEVEL: 50, MAX_TEXTURE_SIZE: 16384, COPY_TEXTURE_SUPPORT: Basic, Copy3D, DifferentTypes, TextureToRT, RTToTexture, COLOR SPACE: Linear
+21:13:37 [Event] ProjectLoadEvent [FilePath: C:/Users/gashu/Documents/GitHub/card_game/test.tcp]
+21:13:37 [Font] Load system font: Arial
+21:13:37 [Font] Load system font: Arial Black
+21:13:37 [Font] Load system font: Impact
+21:13:37 [History] Clear
+21:13:37 [Font] Load system font: Amatic SC
+21:13:37 [Font] Load system font: Arial Bold
+21:13:37 [Font] Load system font: Arial Bold Italic
+21:13:37 [Font] Load system font: Arial Italic
+21:13:37 [Font] Load system font: Arial Narrow
+21:13:37 [Font] Load system font: Arial Narrow Bold
+21:13:37 [Font] Load system font: Arial Narrow Bold Italic
+21:13:37 [Font] Load system font: Arial Narrow Italic
+21:13:37 [Font] Load system font: Bahnschrift
+21:13:37 [Font] Load system font: Bahnschrift Condensed
+21:13:37 [Font] Load system font: Bahnschrift Light
+21:13:37 [Font] Load system font: Bahnschrift Light Condensed
+21:13:37 [Font] Load system font: Bahnschrift Light SemiCondensed
+21:13:37 [Font] Load system font: Bahnschrift SemiBold
+21:13:37 [Font] Load system font: Bahnschrift SemiBold Condensed
+21:13:37 [Font] Load system font: Bahnschrift SemiBold SemiConden
+21:13:37 [Font] Load system font: Bahnschrift SemiCondensed
+21:13:37 [Font] Load system font: Bahnschrift SemiLight
+21:13:37 [Font] Load system font: Bahnschrift SemiLight Condensed
+21:13:37 [Font] Load system font: Bahnschrift SemiLight SemiConde
+21:13:37 [Font] Load system font: Book Antiqua
+21:13:37 [Font] Load system font: Book Antiqua Italic
+21:13:37 [Font] Load system font: Bookman Old Style
+21:13:37 [Font] Load system font: Bookman Old Style Bold
+21:13:37 [Font] Load system font: Bookman Old Style Bold Italic
+21:13:37 [Font] Load system font: Bookman Old Style Italic
+21:13:37 [Font] Load system font: Bookshelf Symbol 7
+21:13:37 [Font] Load system font: Calibri
+21:13:37 [Font] Load system font: Calibri Bold
+21:13:37 [Font] Load system font: Calibri Bold Italic
+21:13:37 [Font] Load system font: Calibri Italic
+21:13:37 [Font] Load system font: Calibri Light
+21:13:37 [Font] Load system font: Calibri Light Italic
+21:13:37 [Font] Load system font: Cambria
+21:13:37 [Font] Load system font: Cambria Bold
+21:13:37 [Font] Load system font: Cambria Bold Italic
+21:13:37 [Font] Load system font: Cambria Italic
+21:13:37 [Font] Load system font: Cambria Math
+21:13:37 [Font] Load system font: Candara
+21:13:37 [Font] Load system font: Candara Bold
+21:13:37 [Font] Load system font: Candara Bold Italic
+21:13:37 [Font] Load system font: Candara Italic
+21:13:37 [Font] Load system font: Candara Light
+21:13:37 [Font] Load system font: Candara Light Italic
+21:13:37 [Font] Load system font: Caviar Dreams
+21:13:37 [Font] Load system font: Century
+21:13:37 [Font] Load system font: Century Gothic
+21:13:37 [Font] Load system font: Century Gothic Bold
+21:13:37 [Font] Load system font: Century Gothic Bold Italic
+21:13:37 [Font] Load system font: Century Gothic Italic
+21:13:37 [Font] Load system font: Comic Sans MS
+21:13:37 [Font] Load system font: Comic Sans MS Bold
+21:13:37 [Font] Load system font: Comic Sans MS Bold Italic
+21:13:37 [Font] Load system font: Comic Sans MS Italic
+21:13:37 [Font] Load system font: Consolas
+21:13:37 [Font] Load system font: Consolas Bold
+21:13:37 [Font] Load system font: Consolas Bold Italic
+21:13:37 [Font] Load system font: Consolas Italic
+21:13:37 [Font] Load system font: Constantia
+21:13:37 [Font] Load system font: Constantia Bold
+21:13:37 [Font] Load system font: Constantia Bold Italic
+21:13:37 [Font] Load system font: Constantia Italic
+21:13:37 [Font] Load system font: Corbel
+21:13:37 [Font] Load system font: Corbel Bold
+21:13:37 [Font] Load system font: Corbel Bold Italic
+21:13:37 [Font] Load system font: Corbel Italic
+21:13:37 [Font] Load system font: Corbel Light
+21:13:37 [Font] Load system font: Corbel Light Italic
+21:13:37 [Font] Load system font: Courier New
+21:13:37 [Font] Load system font: Courier New Bold
+21:13:37 [Font] Load system font: Courier New Bold Italic
+21:13:37 [Font] Load system font: Courier New Italic
+21:13:37 [Font] Load system font: DejaVu Serif
+21:13:37 [Font] Load system font: Dela Gothic One
+21:13:37 [Font] Load system font: Droid Sans
+21:13:37 [Font] Load system font: Dubai
+21:13:37 [Font] Load system font: Dubai Light
+21:13:37 [Font] Load system font: Dubai Medium
+21:13:37 [Font] Load system font: Ebrima
+21:13:37 [Font] Load system font: Ebrima Bold
+21:13:37 [Font] Load system font: Exo
+21:13:37 [Font] Load system font: Fira Sans
+21:13:37 [Font] Load system font: Fjalla One
+21:13:37 [Font] Load system font: Franklin Gothic Medium
+21:13:37 [Font] Load system font: Franklin Gothic Medium Italic
+21:13:37 [Font] Load system font: Gabriola
+21:13:37 [Font] Load system font: Gadugi
+21:13:37 [Font] Load system font: Gadugi Bold
+21:13:37 [Font] Load system font: Garamond
+21:13:37 [Font] Load system font: Garamond Bold
+21:13:37 [Font] Load system font: Garamond Italic
+21:13:37 [Font] Load system font: Georgia
+21:13:37 [Font] Load system font: Georgia Bold
+21:13:37 [Font] Load system font: Georgia Bold Italic
+21:13:37 [Font] Load system font: Georgia Italic
+21:13:37 [Font] Load system font: Haettenschweiler
+21:13:37 [Font] Load system font: HoloLens MDL2 Assets
+21:13:37 [Font] Load system font: Ink Free
+21:13:37 [Font] Load system font: Jarvish Blurry
+21:13:37 [Font] Load system font: Javanese Text
+21:13:37 [Font] Load system font: Lato
+21:13:37 [Font] Load system font: Leelawadee UI
+21:13:37 [Font] Load system font: Leelawadee UI Semilight
+21:13:37 [Font] Load system font: Lucida Console
+21:13:37 [Font] Load system font: Lucida Sans Unicode
+21:13:37 [Font] Load system font: Malgun Gothic
+21:13:37 [Font] Load system font: Malgun Gothic Bold
+21:13:37 [Font] Load system font: Malgun Gothic Semilight
+21:13:37 [Font] Load system font: Marlett
+21:13:37 [Font] Load system font: Microsoft Himalaya
+21:13:37 [Font] Load system font: Microsoft JhengHei
+21:13:37 [Font] Load system font: Microsoft JhengHei Bold
+21:13:37 [Font] Load system font: Microsoft JhengHei Light
+21:13:38 [Font] Load system font: Microsoft JhengHei UI
+21:13:38 [Font] Load system font: Microsoft JhengHei UI Bold
+21:13:38 [Font] Load system font: Microsoft JhengHei UI Light
+21:13:38 [Font] Load system font: Microsoft New Tai Lue
+21:13:38 [Font] Load system font: Microsoft New Tai Lue Bold
+21:13:38 [Font] Load system font: Microsoft PhagsPa
+21:13:38 [Font] Load system font: Microsoft PhagsPa Bold
+21:13:38 [Font] Load system font: Microsoft Sans Serif
+21:13:38 [Font] Load system font: Microsoft Tai Le
+21:13:38 [Font] Load system font: Microsoft Tai Le Bold
+21:13:38 [Font] Load system font: Microsoft YaHei
+21:13:38 [Font] Load system font: Microsoft YaHei Bold
+21:13:38 [Font] Load system font: Microsoft YaHei Light
+21:13:38 [Font] Load system font: Microsoft YaHei UI
+21:13:38 [Font] Load system font: Microsoft YaHei UI Bold
+21:13:38 [Font] Load system font: Microsoft YaHei UI Light
+21:13:38 [Font] Load system font: Microsoft Yi Baiti
+21:13:38 [Font] Load system font: Minecraft Rus
+21:13:38 [Font] Load system font: Minecraft Title Cyrillic
+21:13:38 [Font] Load system font: Minecrafter
+21:13:38 [Font] Load system font: Minecrafter Alt
+21:13:38 [Font] Load system font: MingLiU_HKSCS-ExtB
+21:13:38 [Font] Load system font: MingLiU-ExtB
+21:13:38 [Font] Load system font: Mongolian Baiti
+21:13:38 [Font] Load system font: Monotype Corsiva
+21:13:38 [Font] Load system font: Montserrat
+21:13:38 [Font] Load system font: Montserrat Alternates
+21:13:38 [Font] Load system font: Montserrat Alternates Black
+21:13:38 [Font] Load system font: Montserrat Alternates ExLight
+21:13:38 [Font] Load system font: Montserrat Alternates ExtraBold
+21:13:38 [Font] Load system font: Montserrat Alternates Light
+21:13:38 [Font] Load system font: Montserrat Alternates Medium
+21:13:38 [Font] Load system font: Montserrat Alternates SemiBold
+21:13:38 [Font] Load system font: Montserrat Alternates Thin
+21:13:38 [Font] Load system font: Montserrat Black
+21:13:38 [Font] Load system font: Montserrat ExtraBold
+21:13:38 [Font] Load system font: Montserrat ExtraLight
+21:13:38 [Font] Load system font: Montserrat Light
+21:13:38 [Font] Load system font: Montserrat Medium
+21:13:38 [Font] Load system font: Montserrat SemiBold
+21:13:38 [Font] Load system font: Montserrat Subrayada
+21:13:38 [Font] Load system font: Montserrat Thin
+21:13:38 [Font] Load system font: MS Gothic
+21:13:38 [Font] Load system font: MS Outlook
+21:13:38 [Font] Load system font: MS PGothic
+21:13:38 [Font] Load system font: MS Reference Sans Serif
+21:13:38 [Font] Load system font: MS Reference Specialty
+21:13:38 [Font] Load system font: MS UI Gothic
+21:13:38 [Font] Load system font: MT Extra
+21:13:38 [Font] Load system font: MV Boli
+21:13:38 [Font] Load system font: Myanmar Text
+21:13:38 [Font] Load system font: Myanmar Text Bold
+21:13:38 [Font] Load system font: NimbusSanL
+21:13:38 [Font] Load system font: Nirmala UI
+21:13:38 [Font] Load system font: Nirmala UI Bold
+21:13:38 [Font] Load system font: Nirmala UI Semilight
+21:13:38 [Font] Load system font: Noto Sans
+21:13:38 [Font] Load system font: NSimSun
+21:13:38 [Font] Load system font: Open Sans
+21:13:38 [Font] Load system font: Palatino Linotype
+21:13:38 [Font] Load system font: Palatino Linotype Bold
+21:13:38 [Font] Load system font: Palatino Linotype Bold Italic
+21:13:38 [Font] Load system font: Palatino Linotype Italic
+21:13:38 [Font] Load system font: Play
+21:13:38 [Font] Load system font: PMingLiU-ExtB
+21:13:38 [Font] Load system font: Quicksand
+21:13:38 [Font] Load system font: Raleway
+21:13:38 [Font] Load system font: Roboto Slab
+21:13:38 [Font] Load system font: Rubik Mono One
+21:13:38 [Font] Load system font: Sans Serif Collection
+21:13:38 [Font] Load system font: Segoe Fluent Icons
+21:13:38 [Font] Load system font: Segoe MDL2 Assets
+21:13:38 [Font] Load system font: Segoe Print
+21:13:38 [Font] Load system font: Segoe Print Bold
+21:13:38 [Font] Load system font: Segoe Script
+21:13:38 [Font] Load system font: Segoe Script Bold
+21:13:38 [Font] Load system font: Segoe UI
+21:13:38 [Font] Load system font: Segoe UI Black
+21:13:38 [Font] Load system font: Segoe UI Black Italic
+21:13:38 [Font] Load system font: Segoe UI Bold
+21:13:38 [Font] Load system font: Segoe UI Bold Italic
+21:13:38 [Font] Load system font: Segoe UI Emoji
+21:13:38 [Font] Load system font: Segoe UI Historic
+21:13:38 [Font] Load system font: Segoe UI Italic
+21:13:38 [Font] Load system font: Segoe UI Light
+21:13:38 [Font] Load system font: Segoe UI Semibold
+21:13:38 [Font] Load system font: Segoe UI Semibold Italic
+21:13:38 [Font] Load system font: Segoe UI Semilight
+21:13:38 [Font] Load system font: Segoe UI Symbol
+21:13:38 [Font] Load system font: Segoe UI Variable Display
+21:13:38 [Font] Load system font: Segoe UI Variable Display Light
+21:13:38 [Font] Load system font: Segoe UI Variable Display Semib
+21:13:38 [Font] Load system font: Segoe UI Variable Display Semil
+21:13:38 [Font] Load system font: Segoe UI Variable Small
+21:13:38 [Font] Load system font: Segoe UI Variable Small Light
+21:13:38 [Font] Load system font: Segoe UI Variable Small Semibol
+21:13:38 [Font] Load system font: Segoe UI Variable Small Semilig
+21:13:38 [Font] Load system font: Segoe UI Variable Text
+21:13:38 [Font] Load system font: Segoe UI Variable Text Light
+21:13:38 [Font] Load system font: Segoe UI Variable Text Semibold
+21:13:38 [Font] Load system font: Segoe UI Variable Text Semiligh
+21:13:38 [Font] Load system font: SimSun
+21:13:38 [Font] Load system font: SimSun-ExtB
+21:13:38 [Font] Load system font: Sitka Banner
+21:13:38 [Font] Load system font: Sitka Banner Semibold
+21:13:38 [Font] Load system font: Sitka Display
+21:13:38 [Font] Load system font: Sitka Display Semibold
+21:13:38 [Font] Load system font: Sitka Heading
+21:13:38 [Font] Load system font: Sitka Heading Semibold
+21:13:38 [Font] Load system font: Sitka Small
+21:13:38 [Font] Load system font: Sitka Small Semibold
+21:13:38 [Font] Load system font: Sitka Subheading
+21:13:38 [Font] Load system font: Sitka Subheading Semibold
+21:13:38 [Font] Load system font: Sitka Text
+21:13:38 [Font] Load system font: Sitka Text Semibold
+21:13:38 [Font] Load system font: Sylfaen
+21:13:38 [Font] Load system font: Symbol
+21:13:38 [Font] Load system font: Tahoma
+21:13:38 [Font] Load system font: Tahoma Bold
+21:13:38 [Font] Load system font: TeamViewer15
+21:13:38 [Font] Load system font: Times New Roman
+21:13:38 [Font] Load system font: Times New Roman Bold
+21:13:38 [Font] Load system font: Times New Roman Bold Italic
+21:13:38 [Font] Load system font: Times New Roman Italic
+21:13:38 [Font] Load system font: Trebuchet MS
+21:13:38 [Font] Load system font: Trebuchet MS Bold
+21:13:38 [Font] Load system font: Trebuchet MS Bold Italic
+21:13:38 [Font] Load system font: Trebuchet MS Italic
+21:13:38 [Font] Load system font: Ubuntu
+21:13:38 [Font] Load system font: Verdana
+21:13:38 [Font] Load system font: Verdana Bold
+21:13:38 [Font] Load system font: Verdana Bold Italic
+21:13:38 [Font] Load system font: Verdana Italic
+21:13:38 [Font] Load system font: Vollkorn
+21:13:38 [Font] Load system font: Webdings
+21:13:38 [Font] Load system font: Wingdings
+21:13:38 [Font] Load system font: Wingdings 2
+21:13:38 [Font] Load system font: Wingdings 3
+21:13:38 [Font] Load system font: Yu Gothic
+21:13:38 [Font] Load system font: Yu Gothic Light
+21:13:38 [Font] Load system font: Yu Gothic Medium
+21:13:38 [Font] Load system font: Yu Gothic UI
+21:13:39 [Font] Load system font: Yu Gothic UI Light
+21:13:39 [Font] Load system font: Yu Gothic UI Semibold
+21:13:39 [Font] Load system font: Yu Gothic UI Semilight
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 38398.
+Total: 47.942200 ms (FindLiveObjects: 5.787000 ms CreateObjectMapping: 2.103200 ms MarkObjects: 39.889000 ms  DeleteObjects: 0.162200 ms)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+21:13:39 [Event] NotificationMessageEvent [Type: Info (-1), Title: Project loaded]
+21:13:39 [History] Push: UIScreenSwitch
+21:13:39 [Event] ScreenSwitchEvent [Screen: Collection]
+21:13:39 [Analytics] Hit screen request
+21:13:39 [History] Clear
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 38488.
+Total: 36.163300 ms (FindLiveObjects: 4.918000 ms CreateObjectMapping: 1.835400 ms MarkObjects: 29.209600 ms  DeleteObjects: 0.199400 ms)
+21:13:39 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 91, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:39 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 37, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:39 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:39 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:44 [History] Push: UIScreenSwitch
+21:13:44 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:13:44 [Analytics] Hit screen request
+21:13:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:44 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:44 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:13:50 [History] Push: UIBlueprintSelectBlueprint
+21:13:50 [Event] BlueprintScreenSelectBlueprintEvent 
+21:13:50 [History] Push: UIScreenSwitch (Composite)
+21:13:50 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+21:13:50 [Analytics] Hit screen request
+21:13:51 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:13:51 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:13:58 [History] Push: UIScreenSwitch
+21:13:58 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:13:58 [Analytics] Hit screen request
+21:13:58 [History] Push: UIBlueprintSelectBlueprint (Composite)
+21:13:58 [Event] BlueprintScreenSelectBlueprintEvent 
+21:13:59 [History] Push: UIBlueprintSelectBlueprint
+21:13:59 [Event] BlueprintScreenSelectBlueprintEvent 
+21:13:59 [History] Push: UIScreenSwitch (Composite)
+21:13:59 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+21:13:59 [Analytics] Hit screen request
+21:13:59 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:13:59 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:03 [History] Push: UIBlueprintSelectPanel
+21:14:03 [Event] BlueprintScreenSelectPanelEvent 
+21:14:05 [History] Push: UIBlueprintSelectPanel
+21:14:05 [Event] BlueprintScreenSelectPanelEvent 
+21:14:05 [History] Push: UIBlueprintSelectPanel
+21:14:05 [Event] BlueprintScreenSelectPanelEvent 
+21:14:07 [History] Push: UIBlueprintSelectPanel
+21:14:07 [Event] BlueprintScreenSelectPanelEvent 
+21:14:10 [History] Push: BlueprintPanelSetData
+21:14:10 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 71.87892]
+21:14:10 [Project] Set Dirty
+21:14:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:13 [History] Push: BlueprintPanelSetData
+21:14:13 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 7]
+21:14:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:14 [History] Push: BlueprintPanelSetData
+21:14:14 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 71]
+21:14:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:17 [History] Push: BlueprintPanelSetData
+21:14:17 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 71.5]
+21:14:17 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:19 [History] Push: BlueprintPanelSetData
+21:14:19 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 71]
+21:14:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:19 [History] Push: BlueprintPanelSetData
+21:14:19 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 7]
+21:14:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:20 [History] Push: BlueprintPanelSetData
+21:14:20 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 72]
+21:14:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:22 [History] Push: UIBlueprintSelectPanel
+21:14:22 [Event] BlueprintScreenSelectPanelEvent 
+21:14:24 [History] Push: BlueprintPanelSetData
+21:14:24 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 71.87892]
+21:14:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:26 [History] Push: BlueprintPanelSetData
+21:14:26 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 7]
+21:14:26 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:26 [History] Push: BlueprintPanelSetData
+21:14:26 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 72]
+21:14:26 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:28 [History] Push: UIBlueprintSelectPanel
+21:14:28 [Event] BlueprintScreenSelectPanelEvent 
+21:14:32 [History] Push: BlueprintPanelSetData
+21:14:32 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 81.80717]
+21:14:32 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:34 [History] Push: BlueprintPanelSetData
+21:14:34 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 8]
+21:14:34 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:34 [History] Push: BlueprintPanelSetData
+21:14:34 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 81]
+21:14:34 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:35 [History] Push: BlueprintPanelSetData
+21:14:35 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 8]
+21:14:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:35 [History] Push: BlueprintPanelSetData
+21:14:35 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 82]
+21:14:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:38 [History] Push: BlueprintPanelSetData
+21:14:38 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 8]
+21:14:38 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:38 [History] Push: BlueprintPanelSetData
+21:14:38 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 81]
+21:14:38 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:40 [History] Push: BlueprintPanelSetData
+21:14:40 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 81.2]
+21:14:40 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:41 [History] Push: BlueprintPanelSetData
+21:14:41 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 81]
+21:14:41 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:41 [History] Push: BlueprintPanelSetData
+21:14:41 [Event] BlueprintPanelSetDataEvent [Panel: panel_006, ID: layout_position, Localization: , Data: 7, 81.7]
+21:14:41 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:45 [History] Push: UIBlueprintSelectPanel
+21:14:45 [Event] BlueprintScreenSelectPanelEvent 
+21:14:48 [History] Push: BlueprintPanelSetData
+21:14:48 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 7]
+21:14:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:48 [History] Push: BlueprintPanelSetData
+21:14:48 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 71]
+21:14:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:49 [History] Push: BlueprintPanelSetData
+21:14:49 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 717]
+21:14:49 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:50 [History] Push: BlueprintPanelSetData
+21:14:50 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 71]
+21:14:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:50 [History] Push: BlueprintPanelSetData
+21:14:50 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 71.7]
+21:14:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:53 [History] Push: BlueprintPanelSetData
+21:14:53 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 71]
+21:14:53 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:53 [History] Push: BlueprintPanelSetData
+21:14:53 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 71.8]
+21:14:53 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:14:57 [History] Push: UIBlueprintSelectPanel
+21:14:57 [Event] BlueprintScreenSelectPanelEvent 
+21:14:58 [History] Push: BlueprintPanelSetData
+21:14:58 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 7]
+21:14:58 [History] Push: BlueprintPanelSetData
+21:14:58 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 71]
+21:14:58 [History] Push: BlueprintPanelSetData
+21:14:58 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 718]
+21:14:59 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:00 [History] Push: BlueprintPanelSetData
+21:15:00 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 71.8]
+21:15:00 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:02 [History] Push: UIBlueprintSelectPanel
+21:15:02 [Event] BlueprintScreenSelectPanelEvent 
+21:15:02 [History] Push: UIBlueprintSelectPanel
+21:15:02 [Event] BlueprintScreenSelectPanelEvent 
+21:15:03 [History] Push: UIBlueprintSelectPanel
+21:15:03 [Event] BlueprintScreenSelectPanelEvent 
+21:15:06 [History] Push: UIBlueprintSelectPanel
+21:15:06 [Event] BlueprintScreenSelectPanelEvent 
+21:15:06 [History] Push: UIBlueprintSelectPanel
+21:15:06 [Event] BlueprintScreenSelectPanelEvent 
+21:15:10 [History] Push: UIBlueprintSelectPanel
+21:15:10 [Event] BlueprintScreenSelectPanelEvent 
+21:15:16 [History] Push: UIBlueprintSelectPanel
+21:15:16 [Event] BlueprintScreenSelectPanelEvent 
+21:15:18 [History] Push: UIBlueprintSelectPanel
+21:15:18 [Event] BlueprintScreenSelectPanelEvent 
+21:15:19 [History] Push: UIBlueprintSelectPanel
+21:15:19 [Event] BlueprintScreenSelectPanelEvent 
+21:15:22 [History] Push: BlueprintPanelSetData
+21:15:22 [Event] BlueprintPanelSetDataEvent [Panel: panel_003, ID: layout_position, Localization: , Data: 7, 81.80717]
+21:15:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:24 [History] Push: BlueprintPanelSetData
+21:15:24 [Event] BlueprintPanelSetDataEvent [Panel: panel_003, ID: layout_position, Localization: , Data: 7, 8]
+21:15:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:24 [History] Push: BlueprintPanelSetData
+21:15:24 [Event] BlueprintPanelSetDataEvent [Panel: panel_003, ID: layout_position, Localization: , Data: 7, 81]
+21:15:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:25 [History] Push: BlueprintPanelSetData
+21:15:25 [Event] BlueprintPanelSetDataEvent [Panel: panel_003, ID: layout_position, Localization: , Data: 7, 81.7]
+21:15:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:27 [History] Push: UIBlueprintSelectPanel
+21:15:27 [Event] BlueprintScreenSelectPanelEvent 
+21:15:30 [History] Push: BlueprintPanelSetData
+21:15:30 [Event] BlueprintPanelSetDataEvent [Panel: panel_005, ID: layout_position, Localization: , Data: 7, 71.7]
+21:15:30 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:32 [History] Push: UIBlueprintSelectPanel
+21:15:32 [Event] BlueprintScreenSelectPanelEvent 
+21:15:34 [History] Push: BlueprintPanelSetData
+21:15:34 [Event] BlueprintPanelSetDataEvent [Panel: panel_004, ID: layout_position, Localization: , Data: 7, 71.7]
+21:15:34 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:35 [History] Push: UIBlueprintSelectPanel
+21:15:35 [Event] BlueprintScreenSelectPanelEvent 
+21:15:39 [History] Push: BlueprintPanelSetData
+21:15:39 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 29.98311, 81]
+21:15:39 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:40 [History] Push: BlueprintPanelSetData
+21:15:40 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 29.98311, 81.7]
+21:15:40 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:43 [History] Push: BlueprintPanelSetData
+21:15:43 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 2, 81.7]
+21:15:43 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:44 [History] Push: BlueprintPanelSetData
+21:15:44 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 29, 81.7]
+21:15:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 6, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:46 [History] Push: BlueprintPanelSetData
+21:15:46 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 2, 81.7]
+21:15:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:46 [History] Push: BlueprintPanelSetData
+21:15:46 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 0, 81.7]
+21:15:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:46 [History] Push: BlueprintPanelSetData
+21:15:46 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 3, 81.7]
+21:15:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:46 [History] Push: BlueprintPanelSetData
+21:15:46 [Event] BlueprintPanelSetDataEvent [Panel: panel_007, ID: layout_position, Localization: , Data: 30, 81.7]
+21:15:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:49 [History] Push: UIBlueprintSelectPanel
+21:15:49 [Event] BlueprintScreenSelectPanelEvent 
+21:15:50 [History] Push: UIBlueprintSelectPanel
+21:15:50 [Event] BlueprintScreenSelectPanelEvent 
+21:15:51 [History] Push: UIBlueprintSelectPanel
+21:15:51 [Event] BlueprintScreenSelectPanelEvent 
+21:15:55 [History] Push: BlueprintPanelSort
+21:15:55 [Event] BlueprintPanelSortEvent 
+21:15:55 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:55 [History] Push: BlueprintPanelSort
+21:15:55 [Event] BlueprintPanelSortEvent 
+21:15:55 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:55 [History] Push: BlueprintPanelSort
+21:15:55 [Event] BlueprintPanelSortEvent 
+21:15:55 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:15:57 [History] Push: UIBlueprintSelectPanel
+21:15:57 [Event] BlueprintScreenSelectPanelEvent 
+21:15:58 [History] Push: UIBlueprintSelectPanel
+21:15:58 [Event] BlueprintScreenSelectPanelEvent 
+21:15:59 [History] Push: UIBlueprintSelectPanel
+21:15:59 [Event] BlueprintScreenSelectPanelEvent 
+21:16:03 [History] Push: BlueprintPanelSetData
+21:16:03 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 5, 86.77129]
+21:16:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:03 [History] Push: BlueprintPanelSetData
+21:16:03 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 50, 86.77129]
+21:16:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:04 [History] Push: BlueprintPanelSetData
+21:16:04 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 5, 86.77129]
+21:16:04 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:05 [History] Push: BlueprintPanelSetData
+21:16:05 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 0, 86.77129]
+21:16:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:06 [History] Push: BlueprintPanelSetData
+21:16:06 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 4, 86.77129]
+21:16:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:06 [History] Push: BlueprintPanelSetData
+21:16:06 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86.77129]
+21:16:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:09 [History] Push: UIBlueprintSelectPanel
+21:16:09 [Event] BlueprintScreenSelectPanelEvent 
+21:16:10 [History] Push: UIBlueprintSelectPanel
+21:16:10 [Event] BlueprintScreenSelectPanelEvent 
+21:16:13 [History] Push: BlueprintPanelSetData
+21:16:13 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86.7]
+21:16:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:15 [History] Push: UIBlueprintSelectPanel
+21:16:15 [Event] BlueprintScreenSelectPanelEvent 
+21:16:16 [History] Push: UIBlueprintSelectPanel
+21:16:16 [Event] BlueprintScreenSelectPanelEvent 
+21:16:17 [History] Push: UIBlueprintSelectPanel
+21:16:17 [Event] BlueprintScreenSelectPanelEvent 
+21:16:20 [History] Push: BlueprintPanelSetData
+21:16:20 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86]
+21:16:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:21 [History] Push: BlueprintPanelSetData
+21:16:21 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86.6]
+21:16:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:23 [History] Push: UIBlueprintSelectPanel
+21:16:23 [Event] BlueprintScreenSelectPanelEvent 
+21:16:25 [History] Push: UIBlueprintSelectPanel
+21:16:25 [Event] BlueprintScreenSelectPanelEvent 
+21:16:28 [History] Push: BlueprintPanelSetData
+21:16:28 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86]
+21:16:28 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:28 [History] Push: BlueprintPanelSetData
+21:16:28 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86.8]
+21:16:28 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:30 [History] Push: UIBlueprintSelectPanel
+21:16:30 [Event] BlueprintScreenSelectPanelEvent 
+21:16:33 [History] Push: UIBlueprintSelectPanel
+21:16:33 [Event] BlueprintScreenSelectPanelEvent 
+21:16:36 [History] Push: BlueprintPanelSetData
+21:16:36 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86.85]
+21:16:36 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:37 [History] Push: UIBlueprintSelectPanel
+21:16:37 [Event] BlueprintScreenSelectPanelEvent 
+21:16:38 [History] Push: UIBlueprintSelectPanel
+21:16:38 [Event] BlueprintScreenSelectPanelEvent 
+21:16:39 [History] Push: UIBlueprintSelectPanel
+21:16:39 [Event] BlueprintScreenSelectPanelEvent 
+21:16:41 [History] Push: UIBlueprintSelectPanel
+21:16:41 [Event] BlueprintScreenSelectPanelEvent 
+21:16:44 [History] Push: BlueprintPanelSetData
+21:16:44 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86.8]
+21:16:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:44 [History] Push: BlueprintPanelSetData
+21:16:44 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86]
+21:16:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:45 [History] Push: BlueprintPanelSetData
+21:16:45 [Event] BlueprintPanelSetDataEvent [Panel: panel_008, ID: layout_position, Localization: , Data: 49, 86.9]
+21:16:45 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:46 [History] Push: UIBlueprintSelectPanel
+21:16:46 [Event] BlueprintScreenSelectPanelEvent 
+21:16:47 [History] Push: UIBlueprintSelectPanel
+21:16:47 [Event] BlueprintScreenSelectPanelEvent 
+21:16:48 [History] Push: UIBlueprintSelectPanel
+21:16:48 [Event] BlueprintScreenSelectPanelEvent 
+21:16:49 [History] Push: UIBlueprintSelectPanel
+21:16:49 [Event] BlueprintScreenSelectPanelEvent 
+21:16:50 [History] Push: UIBlueprintSelectPanel
+21:16:50 [Event] BlueprintScreenSelectPanelEvent 
+21:16:53 [History] Push: UIBlueprintSelectPanel
+21:16:53 [Event] BlueprintScreenSelectPanelEvent 
+21:16:59 [History] Push: BlueprintPanelSetData
+21:16:59 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 3, 12.47764]
+21:16:59 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:16:59 [History] Push: BlueprintPanelSetData
+21:16:59 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 12.47764]
+21:16:59 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:03 [History] Push: BlueprintPanelSetData
+21:17:03 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_size, Localization: , Data: 5, 18.19059]
+21:17:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:03 [History] Push: BlueprintPanelSetData
+21:17:03 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_size, Localization: , Data: 56, 18.19059]
+21:17:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:05 [History] Push: BlueprintPanelSetData
+21:17:05 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_size, Localization: , Data: 56, 1]
+21:17:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:05 [History] Push: BlueprintPanelSetData
+21:17:05 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_size, Localization: , Data: 56, 19]
+21:17:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:09 [Shortcut] Triggered: Ctrl+Z
+21:17:09 [History] Undo: BlueprintPanelSetData
+21:17:09 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_size, Localization: , Data: 56, 18.19059]
+21:17:09 [Event] HistoryUndoEvent 
+21:17:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:11 [History] Push: BlueprintPanelSetData
+21:17:11 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_size, Localization: , Data: 56, 1]
+21:17:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:11 [History] Push: BlueprintPanelSetData
+21:17:11 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_size, Localization: , Data: 56, 19]
+21:17:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:14 [History] Push: UIBlueprintSelectPanel
+21:17:14 [Event] BlueprintScreenSelectPanelEvent 
+21:17:15 [History] Push: UIBlueprintSelectPanel
+21:17:15 [Event] BlueprintScreenSelectPanelEvent 
+21:17:16 [History] Push: UIBlueprintSelectPanel
+21:17:16 [Event] BlueprintScreenSelectPanelEvent 
+21:17:18 [History] Push: BlueprintPanelSetLayout
+21:17:18 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 12.89209, Size: 56, 19, Rotation: 0]
+21:17:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:18 [History] Push: BlueprintPanelSetLayout
+21:17:18 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 14.23906, Size: 56, 19, Rotation: 0]
+21:17:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:18 [History] Push: BlueprintPanelSetLayout
+21:17:18 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 14.5499, Size: 56, 19, Rotation: 0]
+21:17:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:18 [History] Push: BlueprintPanelSetLayout
+21:17:18 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 14.96435, Size: 56, 19, Rotation: 0]
+21:17:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:18 [History] Push: BlueprintPanelSetLayout
+21:17:18 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 15.27519, Size: 56, 19, Rotation: 0]
+21:17:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:18 [History] Push: BlueprintPanelSetLayout
+21:17:18 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 16.00048, Size: 56, 19, Rotation: 0]
+21:17:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:18 [History] Push: BlueprintPanelSetLayout
+21:17:18 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 16.1041, Size: 56, 19, Rotation: 0]
+21:17:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:19 [Shortcut] Triggered: Ctrl+Z
+21:17:19 [History] Undo: BlueprintPanelSetLayout
+21:17:19 [Event] BlueprintPanelSetLayoutEvent [Panel: panel_010, Position: 31, 12.47764, Size: 56, 19, Rotation: 0]
+21:17:19 [Event] HistoryUndoEvent 
+21:17:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:22 [History] Push: BlueprintPanelSetData
+21:17:22 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 1]
+21:17:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:22 [History] Push: BlueprintPanelSetData
+21:17:22 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 12]
+21:17:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:23 [History] Push: BlueprintPanelSetData
+21:17:23 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 1]
+21:17:23 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:23 [History] Push: BlueprintPanelSetData
+21:17:23 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 12]
+21:17:23 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:24 [History] Push: BlueprintPanelSetData
+21:17:24 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 1]
+21:17:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:24 [History] Push: BlueprintPanelSetData
+21:17:24 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 13]
+21:17:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:25 [History] Push: BlueprintPanelSetData
+21:17:25 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 1]
+21:17:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:25 [History] Push: BlueprintPanelSetData
+21:17:25 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 12]
+21:17:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:26 [History] Push: BlueprintPanelSetData
+21:17:26 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 12.5]
+21:17:26 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 18, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:32 [History] Push: BlueprintPanelSetData
+21:17:32 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 3, 12.5]
+21:17:32 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:32 [History] Push: BlueprintPanelSetData
+21:17:32 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 32, 12.5]
+21:17:32 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:33 [History] Push: BlueprintPanelSetData
+21:17:33 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 3, 12.5]
+21:17:33 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:33 [History] Push: BlueprintPanelSetData
+21:17:33 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 12.5]
+21:17:33 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:34 [History] Push: BlueprintPanelSetData
+21:17:34 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.5, 12.5]
+21:17:34 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:40 [History] Push: UIBlueprintSelectPanel
+21:17:40 [Event] BlueprintScreenSelectPanelEvent 
+21:17:41 [History] Push: UIBlueprintSelectPanel
+21:17:41 [Event] BlueprintScreenSelectPanelEvent 
+21:17:45 [History] Push: BlueprintPanelSetData
+21:17:45 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 63.90868, 6]
+21:17:45 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:45 [History] Push: BlueprintPanelSetData
+21:17:45 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 63.90868, 65]
+21:17:45 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:48 [History] Push: BlueprintPanelSetData
+21:17:48 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 6, 65]
+21:17:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:48 [History] Push: BlueprintPanelSetData
+21:17:48 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 63, 65]
+21:17:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:50 [History] Push: BlueprintPanelSetData
+21:17:50 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 6, 65]
+21:17:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:50 [History] Push: BlueprintPanelSetData
+21:17:50 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 62, 65]
+21:17:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:53 [History] Push: BlueprintPanelSetData
+21:17:53 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 6, 65]
+21:17:53 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:17:54 [History] Push: BlueprintPanelSetData
+21:17:54 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 65]
+21:17:54 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:00 [History] Push: BlueprintPanelSetData
+21:18:00 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 3, 56.14516]
+21:18:00 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:00 [History] Push: BlueprintPanelSetData
+21:18:00 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 32, 56.14516]
+21:18:00 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:03 [History] Push: BlueprintPanelSetData
+21:18:03 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 3, 56.14516]
+21:18:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:03 [History] Push: BlueprintPanelSetData
+21:18:03 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56.14516]
+21:18:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:03 [History] Push: BlueprintPanelSetData
+21:18:03 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.5, 56.14516]
+21:18:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:08 [History] Push: BlueprintPanelSetData
+21:18:08 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 6]
+21:18:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:08 [History] Push: BlueprintPanelSetData
+21:18:08 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 66]
+21:18:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:10 [History] Push: BlueprintPanelSetData
+21:18:10 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 6]
+21:18:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:10 [History] Push: BlueprintPanelSetData
+21:18:10 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 0]
+21:18:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:11 [History] Push: BlueprintPanelSetData
+21:18:11 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 6]
+21:18:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:11 [History] Push: BlueprintPanelSetData
+21:18:11 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 65]
+21:18:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 21, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:17 [History] Push: BlueprintPanelSetData
+21:18:17 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 6]
+21:18:17 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:17 [History] Push: BlueprintPanelSetData
+21:18:17 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 64]
+21:18:17 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:19 [History] Push: BlueprintPanelSetData
+21:18:19 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 6]
+21:18:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:19 [History] Push: BlueprintPanelSetData
+21:18:19 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 60, 63]
+21:18:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:22 [History] Push: BlueprintPanelSetData
+21:18:22 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 6, 63]
+21:18:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:22 [History] Push: BlueprintPanelSetData
+21:18:22 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:18:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:24 [History] Push: BlueprintPanelSetData
+21:18:24 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 6, 63]
+21:18:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:25 [History] Push: BlueprintPanelSetData
+21:18:25 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 62, 63]
+21:18:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:25 [History] Push: BlueprintPanelSetData
+21:18:25 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 6, 63]
+21:18:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:25 [History] Push: BlueprintPanelSetData
+21:18:25 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:18:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:26 [History] Push: BlueprintPanelSetData
+21:18:26 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61.5, 63]
+21:18:26 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:32 [History] Push: BlueprintPanelSetData
+21:18:32 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.5, 5]
+21:18:32 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:32 [History] Push: BlueprintPanelSetData
+21:18:32 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.5, 56]
+21:18:32 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:38 [History] Push: BlueprintPanelSetData
+21:18:38 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:18:38 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:38 [History] Push: BlueprintPanelSetData
+21:18:38 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61.6, 63]
+21:18:38 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:41 [History] Push: BlueprintPanelSetData
+21:18:41 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:18:41 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:41 [History] Push: BlueprintPanelSetData
+21:18:41 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61.4, 63]
+21:18:41 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:45 [History] Push: BlueprintPanelSetData
+21:18:45 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:18:45 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:45 [History] Push: BlueprintPanelSetData
+21:18:45 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.6, 56]
+21:18:45 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:51 [History] Push: BlueprintPanelSetData
+21:18:51 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:18:52 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:52 [History] Push: BlueprintPanelSetData
+21:18:52 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.7, 56]
+21:18:52 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:54 [History] Push: BlueprintPanelSetData
+21:18:54 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:18:54 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:18:54 [History] Push: BlueprintPanelSetData
+21:18:54 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61.3, 63]
+21:18:54 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:00 [History] Push: BlueprintPanelSetData
+21:19:00 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:19:00 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:00 [History] Push: BlueprintPanelSetData
+21:19:00 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61.2, 63]
+21:19:00 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:02 [History] Push: BlueprintPanelSetData
+21:19:02 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:19:02 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:02 [History] Push: BlueprintPanelSetData
+21:19:02 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61.1, 63]
+21:19:02 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:02 [History] Push: BlueprintPanelSetData
+21:19:02 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_size, Localization: , Data: 61, 63]
+21:19:02 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:09 [History] Push: BlueprintPanelSetData
+21:19:09 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:19:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:10 [History] Push: BlueprintPanelSetData
+21:19:10 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.5, 56]
+21:19:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:10 [History] Push: BlueprintPanelSetData
+21:19:10 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:19:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:11 [History] Push: BlueprintPanelSetData
+21:19:11 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.4, 56]
+21:19:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:11 [History] Push: BlueprintPanelSetData
+21:19:11 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:19:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:11 [History] Push: BlueprintPanelSetData
+21:19:11 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.3, 56]
+21:19:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:12 [History] Push: BlueprintPanelSetData
+21:19:12 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:19:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:13 [History] Push: BlueprintPanelSetData
+21:19:13 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.6, 56]
+21:19:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:14 [History] Push: BlueprintPanelSetData
+21:19:14 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:19:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 11, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:15 [History] Push: BlueprintPanelSetData
+21:19:15 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.5, 56]
+21:19:15 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:15 [History] Push: BlueprintPanelSetData
+21:19:15 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31, 56]
+21:19:15 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:17 [History] Push: BlueprintPanelSetData
+21:19:17 [Event] BlueprintPanelSetDataEvent [Panel: panel_002, ID: layout_position, Localization: , Data: 31.7, 56]
+21:19:17 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:19:21 [History] Push: UIBlueprintSelectPanel
+21:19:21 [Event] BlueprintScreenSelectPanelEvent 
+21:19:23 [Analytics] Event request: Project/Save
+21:19:23 [Project] Save
+21:19:23 [Event] ProjectSaveEvent 
+21:19:23 [History] Push: UIScreenSwitch
+21:19:23 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:19:23 [Analytics] Hit screen request
+21:19:23 [History] Push: UIBlueprintSelectBlueprint (Composite)
+21:19:23 [Event] BlueprintScreenSelectBlueprintEvent 
+21:19:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:19:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:19:24 [History] Push: UIScreenSwitch
+21:19:24 [Event] ScreenSwitchEvent [Screen: Collection]
+21:19:24 [Analytics] Hit screen request
+21:19:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:19:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:19:26 [Event] CollectionScreenSelectItemEvent 
+21:19:26 [History] Push: UICollectionEditItem
+21:19:26 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:19:26 [History] Push: UICollectionSelectPanel (Composite)
+21:19:26 [Event] CollectionScreenSelectPanelEvent 
+21:20:12 [History] Push: UICollectionSelectPanel
+21:20:12 [Event] CollectionScreenSelectPanelEvent 
+21:20:17 [History] Push: SetDetailSetData
+21:20:17 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: GkgfHBnB7DQ.jpg]
+21:20:17 [Project] Set Dirty
+21:20:19 [Event] TextureImageEvent [Path: C:/Users/gashu/Documents/GitHub/card_game/assets/images/GkgfHBnB7DQ.jpg, Requested: False, IsProcessing: False, TimeMs: 2191, Priority: 0, Error:  ]
+21:20:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 41, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:20:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:20:20 [History] Push: UICollectionSelectPanel
+21:20:20 [Event] CollectionScreenSelectPanelEvent 
+21:20:24 [History] Push: UICollectionEditItem
+21:20:24 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:20:25 [History] Push: UIScreenSwitch
+21:20:25 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:20:25 [Analytics] Hit screen request
+21:20:26 [History] Push: UIBlueprintSelectBlueprint
+21:20:26 [Event] BlueprintScreenSelectBlueprintEvent 
+21:20:26 [History] Push: UIScreenSwitch (Composite)
+21:20:26 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+21:20:26 [Analytics] Hit screen request
+21:20:27 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 32, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:27 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 20, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:28 [History] Push: UIBlueprintSelectPanel
+21:20:28 [Event] BlueprintScreenSelectPanelEvent 
+21:20:32 [History] Push: BlueprintPanelSetData
+21:20:32 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 3, 12.5]
+21:20:32 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:32 [History] Push: BlueprintPanelSetData
+21:20:32 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 32, 12.5]
+21:20:32 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:34 [Shortcut] Triggered: Ctrl+Z
+21:20:34 [History] Undo: BlueprintPanelSetData
+21:20:34 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.5, 12.5]
+21:20:34 [Event] HistoryUndoEvent 
+21:20:34 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:35 [History] Push: BlueprintPanelSetData
+21:20:35 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.5, 1]
+21:20:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:35 [History] Push: BlueprintPanelSetData
+21:20:35 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.5, 13]
+21:20:35 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:39 [History] Push: BlueprintPanelSetData
+21:20:39 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.5, 13.5]
+21:20:39 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:47 [History] Push: BlueprintPanelSetData
+21:20:47 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 13.5]
+21:20:47 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:47 [History] Push: BlueprintPanelSetData
+21:20:47 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.6, 13.5]
+21:20:47 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:48 [History] Push: BlueprintPanelSetData
+21:20:48 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 13.5]
+21:20:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:48 [History] Push: BlueprintPanelSetData
+21:20:48 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.7, 13.5]
+21:20:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:49 [History] Push: BlueprintPanelSetData
+21:20:49 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 13.5]
+21:20:49 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:49 [History] Push: BlueprintPanelSetData
+21:20:49 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.6, 13.5]
+21:20:49 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:51 [History] Push: BlueprintPanelSetData
+21:20:51 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 13.5]
+21:20:51 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:51 [History] Push: BlueprintPanelSetData
+21:20:51 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.7, 13.5]
+21:20:51 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:54 [History] Push: BlueprintPanelSetData
+21:20:54 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 13.5]
+21:20:54 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 7, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:54 [History] Push: BlueprintPanelSetData
+21:20:54 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.8, 13.5]
+21:20:54 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:55 [History] Push: BlueprintPanelSetData
+21:20:55 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31, 13.5]
+21:20:55 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:55 [History] Push: BlueprintPanelSetData
+21:20:55 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: layout_position, Localization: , Data: 31.7, 13.5]
+21:20:55 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 8, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:20:58 [History] Push: UIBlueprintSelectPanel
+21:20:58 [Event] BlueprintScreenSelectPanelEvent 
+21:20:59 [History] Push: UIBlueprintSelectPanel
+21:20:59 [Event] BlueprintScreenSelectPanelEvent 
+21:21:01 [Analytics] Event request: Project/Save
+21:21:01 [Project] Save
+21:21:01 [Event] ProjectSaveEvent 
+21:21:02 [History] Push: UIScreenSwitch
+21:21:02 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:21:02 [Analytics] Hit screen request
+21:21:02 [History] Push: UIBlueprintSelectBlueprint (Composite)
+21:21:02 [Event] BlueprintScreenSelectBlueprintEvent 
+21:21:02 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:02 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 1, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:02 [History] Push: UIScreenSwitch
+21:21:02 [Event] ScreenSwitchEvent [Screen: Collection]
+21:21:02 [Analytics] Hit screen request
+21:21:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:03 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:04 [History] Push: UICollectionEditItem
+21:21:04 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:21:08 [History] Push: SetDetailSetData
+21:21:08 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_alignment_h, Localization: , Data: center]
+21:21:08 [Project] Set Dirty
+21:21:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 32, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:09 [History] Push: UICollectionEditItem
+21:21:09 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:21:11 [History] Push: UIScreenSwitch
+21:21:11 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:21:11 [Analytics] Hit screen request
+21:21:12 [History] Push: UIBlueprintSelectBlueprint
+21:21:12 [Event] BlueprintScreenSelectBlueprintEvent 
+21:21:12 [History] Push: UIScreenSwitch (Composite)
+21:21:12 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+21:21:12 [Analytics] Hit screen request
+21:21:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 24, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:21:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 10, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:21:13 [History] Push: UIBlueprintSelectPanel
+21:21:13 [Event] BlueprintScreenSelectPanelEvent 
+21:21:15 [History] Push: BlueprintPanelSetData
+21:21:15 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: text_alignment_h, Localization: , Data: center]
+21:21:15 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:21:16 [History] Push: UIBlueprintSelectPanel
+21:21:16 [Event] BlueprintScreenSelectPanelEvent 
+21:21:18 [History] Push: UIScreenSwitch
+21:21:18 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:21:18 [Analytics] Hit screen request
+21:21:18 [History] Push: UIBlueprintSelectBlueprint (Composite)
+21:21:18 [Event] BlueprintScreenSelectBlueprintEvent 
+21:21:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:19 [History] Push: UIBlueprintSelectBlueprint
+21:21:19 [Event] BlueprintScreenSelectBlueprintEvent 
+21:21:19 [History] Push: UIScreenSwitch (Composite)
+21:21:19 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+21:21:19 [Analytics] Hit screen request
+21:21:20 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 36, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:21:20 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 12, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:21:20 [History] Push: UIBlueprintSelectPanel
+21:21:20 [Event] BlueprintScreenSelectPanelEvent 
+21:21:22 [History] Push: BlueprintPanelSetData
+21:21:22 [Event] BlueprintPanelSetDataEvent [Panel: panel_010, ID: text_alignment_h, Localization: , Data: center]
+21:21:22 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 18, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:21:23 [History] Push: UIScreenSwitch
+21:21:23 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:21:23 [Analytics] Hit screen request
+21:21:23 [History] Push: UIBlueprintSelectBlueprint (Composite)
+21:21:23 [Event] BlueprintScreenSelectBlueprintEvent 
+21:21:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 3, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:24 [History] Push: UIScreenSwitch
+21:21:24 [Event] ScreenSwitchEvent [Screen: Collection]
+21:21:24 [Analytics] Hit screen request
+21:21:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:24 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:25 [History] Push: UICollectionEditItem
+21:21:25 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:21:27 [History] Push: UICollectionEditItem
+21:21:27 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:21:28 [Event] CollectionScreenSelectItemEvent 
+21:21:28 [History] Push: UICollectionEditItem
+21:21:28 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:21:29 [History] Push: UICollectionSelectPanel
+21:21:29 [Event] CollectionScreenSelectPanelEvent 
+21:21:33 [History] Push: SetDetailSetData
+21:21:33 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: v5lE4XssKJY.jpg]
+21:21:33 [Event] TextureImageEvent [Path: C:/Users/gashu/Documents/GitHub/card_game/assets/images/v5lE4XssKJY.jpg, Requested: False, IsProcessing: False, TimeMs: 627, Priority: 0, Error:  ]
+21:21:33 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 38, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:33 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:37 [History] Push: SetDetailSetData
+21:21:37 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_fit_mode, Localization: , Data: fitwidth]
+21:21:37 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 30, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:37 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:43 [History] Push: SetDetailSetData
+21:21:43 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 1]
+21:21:43 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 61, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:43 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:43 [History] Push: SetDetailSetData
+21:21:43 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 10]
+21:21:43 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:43 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:43 [History] Push: SetDetailSetData
+21:21:43 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 1]
+21:21:43 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:43 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:44 [History] Push: SetDetailSetData
+21:21:44 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:21:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 28, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:46 [History] Push: SetDetailSetData
+21:21:46 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 1, 0]
+21:21:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 34, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:47 [History] Push: SetDetailSetData
+21:21:47 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 10, 0]
+21:21:47 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 32, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:47 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 27, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:47 [History] Push: SetDetailSetData
+21:21:47 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 1, 0]
+21:21:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 32, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:49 [History] Push: SetDetailSetData
+21:21:49 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:21:49 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:49 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:49 [History] Push: SetDetailSetData
+21:21:49 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 2, 0]
+21:21:49 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:49 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:50 [History] Push: SetDetailSetData
+21:21:50 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:21:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:50 [History] Push: SetDetailSetData
+21:21:50 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 1, 0]
+21:21:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 28, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:53 [History] Push: UICollectionSelectPanel
+21:21:53 [Event] CollectionScreenSelectPanelEvent 
+21:21:56 [History] Push: SetDetailSetData
+21:21:56 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: И]
+21:21:56 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 57, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:56 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:56 [History] Push: SetDetailSetData
+21:21:56 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Ис]
+21:21:56 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:56 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:56 [History] Push: SetDetailSetData
+21:21:56 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Исп]
+21:21:56 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:56 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [History] Push: SetDetailSetData
+21:21:57 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Испу]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 27, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [History] Push: SetDetailSetData
+21:21:57 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Испуг]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [History] Push: SetDetailSetData
+21:21:57 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Испуга]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [History] Push: SetDetailSetData
+21:21:57 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Испуган]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:57 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:58 [History] Push: SetDetailSetData
+21:21:58 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Испуганы]
+21:21:58 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 37, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:58 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:58 [History] Push: SetDetailSetData
+21:21:58 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Испуганый]
+21:21:58 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:21:58 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:00 [History] Push: UICollectionSelectPanel
+21:22:00 [Event] CollectionScreenSelectPanelEvent 
+21:22:04 [History] Push: SetDetailSetData
+21:22:04 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: С]
+21:22:04 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 33, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:04 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:05 [History] Push: SetDetailSetData
+21:22:05 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Ст]
+21:22:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:05 [History] Push: SetDetailSetData
+21:22:05 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Ста]
+21:22:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 15, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:05 [History] Push: SetDetailSetData
+21:22:05 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Стан]
+21:22:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:05 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [History] Push: SetDetailSetData
+21:22:06 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Ста]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [History] Push: SetDetailSetData
+21:22:06 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Ст]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [History] Push: SetDetailSetData
+21:22:06 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: С]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 15, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [History] Push: SetDetailSetData
+21:22:06 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: ]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:06 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:07 [History] Push: SetDetailSetData
+21:22:07 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Д]
+21:22:07 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:07 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:07 [History] Push: SetDetailSetData
+21:22:07 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Да]
+21:22:07 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:07 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:07 [History] Push: SetDetailSetData
+21:22:07 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дае]
+21:22:07 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:07 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [History] Push: SetDetailSetData
+21:22:08 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 15, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [History] Push: SetDetailSetData
+21:22:08 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает ]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 24, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [History] Push: SetDetailSetData
+21:22:08 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает с]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 22, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [History] Push: SetDetailSetData
+21:22:08 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает ст]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:08 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [History] Push: SetDetailSetData
+21:22:09 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает ста]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [History] Push: SetDetailSetData
+21:22:09 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 15, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [History] Push: SetDetailSetData
+21:22:09 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [History] Push: SetDetailSetData
+21:22:09 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан н]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [History] Push: SetDetailSetData
+21:22:09 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [History] Push: SetDetailSetData
+21:22:09 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 30, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:09 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [History] Push: SetDetailSetData
+21:22:10 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на н]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [History] Push: SetDetailSetData
+21:22:10 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на не]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [History] Push: SetDetailSetData
+21:22:10 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на нек]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [History] Push: SetDetailSetData
+21:22:10 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на неко]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [History] Push: SetDetailSetData
+21:22:10 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некот]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 24, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [History] Push: SetDetailSetData
+21:22:10 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некото]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:10 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некотор]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторо]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 25, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое в]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое вр]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое вре]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [History] Push: SetDetailSetData
+21:22:11 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое врем]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:11 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:12 [History] Push: SetDetailSetData
+21:22:12 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое время]
+21:22:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:12 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:13 [History] Push: SetDetailSetData
+21:22:13 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое время.]
+21:22:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 34, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:13 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:14 [History] Push: SetDetailSetData
+21:22:14 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на некоторое время]
+21:22:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 31, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:14 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:18 [History] Push: SetDetailSetData
+21:22:18 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на  время]
+21:22:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 39, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:18 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:19 [History] Push: SetDetailSetData
+21:22:19 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на время]
+21:22:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:19 [History] Push: SetDetailSetData
+21:22:19 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на ремя]
+21:22:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 27, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:19 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:20 [History] Push: SetDetailSetData
+21:22:20 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на емя]
+21:22:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:20 [History] Push: SetDetailSetData
+21:22:20 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на мя]
+21:22:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:20 [History] Push: SetDetailSetData
+21:22:20 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на я]
+21:22:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:20 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:21 [History] Push: SetDetailSetData
+21:22:21 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на ]
+21:22:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:21 [History] Push: SetDetailSetData
+21:22:21 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на 1]
+21:22:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:21 [History] Push: SetDetailSetData
+21:22:21 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на 1 ]
+21:22:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:21 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:22 [History] Push: SetDetailSetData
+21:22:22 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на 1 х]
+21:22:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:22 [History] Push: SetDetailSetData
+21:22:22 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на 1 хо]
+21:22:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:22 [History] Push: SetDetailSetData
+21:22:22 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на 1 ход]
+21:22:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 24, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:22 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:25 [History] Push: SetDetailSetData
+21:22:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на <b>1</b> ход]
+21:22:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 50, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:25 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:27 [Shortcut] Triggered: Ctrl+Z
+21:22:27 [History] Undo: SetDetailSetData
+21:22:27 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Дает стан на 1 ход]
+21:22:27 [Event] HistoryUndoEvent 
+21:22:27 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 30, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:27 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:30 [History] Push: UICollectionEditItem
+21:22:30 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:22:32 [History] Push: UICollectionEditItem
+21:22:32 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:22:38 [History] Push: SetDetailSetData
+21:22:38 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_rtl, Localization: , Data: True]
+21:22:38 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 35, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:38 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:39 [History] Push: SetDetailSetData
+21:22:39 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_rtl, Localization: , Data: False]
+21:22:40 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 33, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:40 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:41 [History] Push: SetDetailSetData
+21:22:41 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_autosize, Localization: , Data: True]
+21:22:41 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 72, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:41 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:42 [History] Push: SetDetailSetData
+21:22:42 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_autosize, Localization: , Data: False]
+21:22:42 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 35, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:42 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:44 [History] Push: SetDetailSetData
+21:22:44 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_alignment_h, Localization: , Data: justified]
+21:22:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 53, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:44 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:45 [History] Push: SetDetailSetData
+21:22:45 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_alignment_h, Localization: , Data: center]
+21:22:45 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 47, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:45 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:46 [History] Push: SetDetailSetData
+21:22:46 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_wrapping, Localization: , Data: False]
+21:22:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 31, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:46 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:48 [History] Push: SetDetailSetData
+21:22:48 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_wrapping, Localization: , Data: True]
+21:22:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 33, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:48 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:50 [History] Push: SetDetailSetData
+21:22:50 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_overflow, Localization: , Data: ellipsis]
+21:22:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 49, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:50 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:51 [History] Push: SetDetailSetData
+21:22:51 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_overflow, Localization: , Data: truncate]
+21:22:51 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 44, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:51 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:53 [History] Push: SetDetailSetData
+21:22:53 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: text_overflow, Localization: , Data: overflow]
+21:22:53 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 33, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:53 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:59 [History] Push: SetDetailSetData
+21:22:59 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: panel_visible, Localization: , Data: False]
+21:22:59 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 55, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:22:59 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:00 [History] Push: SetDetailSetData
+21:23:00 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: panel_visible, Localization: , Data: True]
+21:23:00 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:00 [Event] TextureRenderEvent [Blueprint: blueprint_001, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:02 [History] Push: UICollectionEditItem
+21:23:02 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:23:08 [History] Push: SetNew
+21:23:08 [Event] SetNewEvent 
+21:23:08 [History] Push: UICollectionToggleSet (Composite)
+21:23:08 [History] Push: SetChangeBlueprint (Composite)
+21:23:08 [Event] SetChangeBlueprintEvent 
+21:23:08 [History] Push: UICollectionToggleSet (Composite)
+21:23:09 [History] Push: SetNewItem
+21:23:09 [Event] SetItemNewEvent 
+21:23:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:10 [Event] CollectionScreenSelectItemEvent 
+21:23:10 [History] Push: UICollectionEditItem
+21:23:10 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:23:10 [History] Push: UICollectionSelectPanel (Composite)
+21:23:10 [Event] CollectionScreenSelectPanelEvent 
+21:23:10 [Event] SetDetailNewEvent 
+21:23:10 [Event] SetDetailRenameEvent 
+21:23:11 [History] Push: UICollectionSelectPanel
+21:23:11 [Event] CollectionScreenSelectPanelEvent 
+21:23:12 [Event] SetDetailNewEvent 
+21:23:12 [Event] SetDetailRenameEvent 
+21:23:31 [Analytics] Internet connectivity: True
+21:23:49 [History] Push: SetDetailSetData
+21:23:49 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: value, Localization: , Data: photo_2022-01-02_16-55-29.jpg]
+21:23:50 [Event] TextureImageEvent [Path: C:/Users/gashu/Documents/GitHub/card_game/assets/images/photo_2022-01-02_16-55-29.jpg, Requested: False, IsProcessing: False, TimeMs: 1472, Priority: 0, Error:  ]
+21:23:50 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 41, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:50 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:54 [History] Push: SetDetailSetData
+21:23:54 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 1]
+21:23:54 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 36, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:54 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:54 [History] Push: SetDetailSetData
+21:23:54 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 10]
+21:23:54 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:54 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:54 [History] Push: SetDetailSetData
+21:23:54 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 1]
+21:23:54 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:54 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:55 [History] Push: SetDetailSetData
+21:23:55 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:23:55 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:55 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:56 [History] Push: SetDetailSetData
+21:23:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, -1]
+21:23:56 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 31, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:56 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:56 [History] Push: SetDetailSetData
+21:23:56 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, -10]
+21:23:56 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:56 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:57 [History] Push: SetDetailSetData
+21:23:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, -1]
+21:23:57 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 37, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:57 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:57 [History] Push: SetDetailSetData
+21:23:57 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:23:57 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:57 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:58 [History] Push: SetDetailSetData
+21:23:58 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, -5]
+21:23:58 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 26, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:58 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:58 [History] Push: SetDetailSetData
+21:23:58 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:23:58 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:59 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:59 [History] Push: SetDetailSetData
+21:23:59 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, -3]
+21:23:59 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 24, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:59 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:59 [History] Push: SetDetailSetData
+21:23:59 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:23:59 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 26, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:59 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:59 [History] Push: SetDetailSetData
+21:23:59 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, -2]
+21:23:59 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 33, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:23:59 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 15, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:00 [History] Push: SetDetailSetData
+21:24:00 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:24:00 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 26, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:00 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:01 [History] Push: SetDetailSetData
+21:24:01 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, -1]
+21:24:01 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 54, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:01 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:01 [History] Push: SetDetailSetData
+21:24:01 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:24:01 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:01 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:06 [History] Push: SetDetailSetData
+21:24:06 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: -1, 0]
+21:24:06 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 34, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:06 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:06 [History] Push: SetDetailSetData
+21:24:06 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: -10, 0]
+21:24:06 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 30, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:06 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:07 [History] Push: SetDetailSetData
+21:24:07 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: -1, 0]
+21:24:07 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 38, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:07 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [History] Push: SetDetailSetData
+21:24:08 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [History] Push: SetDetailSetData
+21:24:08 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: -2, 0]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [History] Push: SetDetailSetData
+21:24:08 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [History] Push: SetDetailSetData
+21:24:08 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: -3, 0]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:08 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 14, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:09 [History] Push: SetDetailSetData
+21:24:09 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:24:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 22, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:09 [History] Push: SetDetailSetData
+21:24:09 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: -4, 0]
+21:24:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:09 [History] Push: SetDetailSetData
+21:24:09 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:24:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:09 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:10 [History] Push: SetDetailSetData
+21:24:10 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 1, 0]
+21:24:10 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:10 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 10, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:11 [History] Push: SetDetailSetData
+21:24:11 [Event] SetDetailSetDataEvent [Detail: panel_002, ID: img_offset, Localization: , Data: 0, 0]
+21:24:11 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:11 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:24:13 [History] Push: UICollectionSelectPanel
+21:24:13 [Event] CollectionScreenSelectPanelEvent 
+21:24:13 [Event] SetDetailNewEvent 
+21:24:13 [Event] SetDetailRenameEvent 
+21:25:15 [History] Push: SetDetailSetData
+21:25:15 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: К]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 56, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [History] Push: SetDetailSetData
+21:25:15 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Ко]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 31, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 25, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [History] Push: SetDetailSetData
+21:25:15 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Ком]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 28, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [History] Push: SetDetailSetData
+21:25:15 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Кома]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [History] Push: SetDetailSetData
+21:25:15 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Коман]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 25, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 13, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [History] Push: SetDetailSetData
+21:25:15 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Команд]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:15 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:16 [History] Push: SetDetailSetData
+21:25:16 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: value, Localization: , Data: Команда]
+21:25:16 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:16 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:17 [History] Push: SetDetailSetData
+21:25:17 [Event] SetDetailSetDataEvent [Detail: panel_009, ID: text_alignment_h, Localization: , Data: center]
+21:25:17 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 44, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:17 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:18 [History] Push: UICollectionSelectPanel
+21:25:18 [Event] CollectionScreenSelectPanelEvent 
+21:25:21 [History] Push: SetDetailSetData
+21:25:21 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Б]
+21:25:21 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 66, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:21 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:21 [History] Push: SetDetailSetData
+21:25:21 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: БЬ]
+21:25:21 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:21 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:23 [History] Push: SetDetailSetData
+21:25:23 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Б]
+21:25:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 49, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:23 [History] Push: SetDetailSetData
+21:25:23 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: ]
+21:25:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 36, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:23 [History] Push: SetDetailSetData
+21:25:23 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: У]
+21:25:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 25, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:23 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:24 [History] Push: SetDetailSetData
+21:25:24 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Уб]
+21:25:24 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:24 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 16, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:24 [History] Push: SetDetailSetData
+21:25:24 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убь]
+21:25:24 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:24 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:24 [History] Push: SetDetailSetData
+21:25:24 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убью]
+21:25:24 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:24 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 25, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 33, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют д]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 18, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют да]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даж]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 34, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже б]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 8, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:25 [History] Push: SetDetailSetData
+21:25:25 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже бу]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 6, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [History] Push: SetDetailSetData
+21:25:26 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже бут]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [History] Push: SetDetailSetData
+21:25:26 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже буты]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 11, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [History] Push: SetDetailSetData
+21:25:26 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже бутыл]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 19, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 7, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:26 [History] Push: SetDetailSetData
+21:25:26 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже бутылк]
+21:25:26 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 23, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:27 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 12, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:27 [History] Push: SetDetailSetData
+21:25:27 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже бутылко]
+21:25:27 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 24, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:27 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 21, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:27 [History] Push: SetDetailSetData
+21:25:27 [Event] SetDetailSetDataEvent [Detail: panel_010, ID: value, Localization: , Data: Убьют даже бутылкой]
+21:25:27 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 17, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:27 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 9, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:28 [History] Push: UICollectionEditItem
+21:25:28 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:25:31 [History] Push: UIScreenSwitch
+21:25:31 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:25:31 [Analytics] Hit screen request
+21:25:31 [History] Push: UIBlueprintSelectBlueprint
+21:25:31 [Event] BlueprintScreenSelectBlueprintEvent 
+21:25:31 [History] Push: UIScreenSwitch (Composite)
+21:25:31 [Event] ScreenSwitchEvent [Screen: BlueprintEditor]
+21:25:31 [Analytics] Hit screen request
+21:25:32 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 29, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:25:32 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 15, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:25:33 [History] Push: UIBlueprintSelectPanel
+21:25:33 [Event] BlueprintScreenSelectPanelEvent 
+21:25:37 [History] Push: UIBlueprintSelectPanel
+21:25:37 [Event] BlueprintScreenSelectPanelEvent 
+21:25:39 [History] Push: UIBlueprintSelectPanel
+21:25:39 [Event] BlueprintScreenSelectPanelEvent 
+21:25:41 [History] Push: UIBlueprintSelectPanel
+21:25:41 [Event] BlueprintScreenSelectPanelEvent 
+21:25:41 [History] Push: UIBlueprintSelectPanel
+21:25:41 [Event] BlueprintScreenSelectPanelEvent 
+21:25:44 [History] Push: BlueprintPanelSetData
+21:25:44 [Event] BlueprintPanelSetDataEvent [Panel: panel_009, ID: text_alignment_h, Localization: , Data: center]
+21:25:44 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 9, IgnoreLayerVisibility: False, Scaling: 1, Bleeding: 3, Linear: False ]
+21:25:45 [History] Push: UIScreenSwitch
+21:25:45 [Event] ScreenSwitchEvent [Screen: BlueprintManager]
+21:25:45 [Analytics] Hit screen request
+21:25:45 [History] Push: UIBlueprintSelectBlueprint (Composite)
+21:25:45 [Event] BlueprintScreenSelectBlueprintEvent 
+21:25:45 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 2, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:45 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 1, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:46 [Analytics] Event request: Project/Save
+21:25:46 [Project] Save
+21:25:46 [Event] ProjectSaveEvent 
+21:25:47 [History] Push: UIScreenSwitch
+21:25:47 [Event] ScreenSwitchEvent [Screen: Collection]
+21:25:47 [Analytics] Hit screen request
+21:25:48 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Front, TimeMs: 20, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
+21:25:49 [History] Push: UICollectionEditItem
+21:25:49 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:25:50 [History] Push: UICollectionSelectPanel
+21:25:50 [Event] CollectionScreenSelectPanelEvent 
+21:26:34 [History] Push: UICollectionEditItem
+21:26:34 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:26:35 [Event] CollectionScreenSelectItemEvent 
+21:26:35 [History] Push: UICollectionEditItem
+21:26:35 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:26:36 [History] Push: UICollectionSelectPanel (Composite)
+21:26:36 [Event] CollectionScreenSelectPanelEvent 
+21:26:56 [History] Push: UICollectionEditItem
+21:26:56 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:26:58 [Event] CollectionScreenSelectItemEvent 
+21:26:58 [History] Push: UICollectionEditItem
+21:26:58 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: True]
+21:27:00 [History] Push: UICollectionEditItem
+21:27:00 [Event] CollectionScreenEditItemEvent [ItemEditorEnabled: False]
+21:27:04 [Event] CloseAppEvent 
+21:27:04 [Analytics] Event request: General/Work Time:678
+21:27:04 [Analytics] Event request: General/Idle Time:106
+21:27:04 [Analytics] Event request: General/Total Time:784
+21:27:04 [Analytics] Event request: General/Close App
+21:27:04 [Analytics] End session request
