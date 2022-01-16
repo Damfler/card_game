@@ -7,7 +7,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1642165403,
+      "last_modification_date_unix": 1642357268,
       "details":
       [
         {
@@ -53,14 +53,15 @@
           "name": "panel_010",
           "data":
           {
-            "value": "Призывает 2 \"Малознакомые друзья Гашука\""
+            "value": "Призывает 2 \"Малознакомые друзья Гашука\"",
+            "text_alignment_h": "center"
           }
         },
         {
           "name": "panel_002",
           "data":
           {
-            "value": "C:/Users/user/Desktop/psd+al/GkgfHBnB7DQ.jpg"
+            "value": "GkgfHBnB7DQ.jpg"
           }
         },
         {
@@ -74,28 +75,36 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1642165844,
+      "last_modification_date_unix": 1642357380,
       "details":
       [
         {
           "name": "panel_010",
           "data":
           {
-            "value": "Хз какой из, но это брат!"
+            "value": "Дает стан на 1 ход",
+            "text_rtl": "False",
+            "text_autosize": "False",
+            "text_alignment_h": "center",
+            "text_wrapping": "True",
+            "text_overflow": "overflow",
+            "panel_visible": "True"
           }
         },
         {
           "name": "panel_009",
           "data":
           {
-            "value": "Брат"
+            "value": "Испуганый"
           }
         },
         {
           "name": "panel_002",
           "data":
           {
-            "value": "C:/Users/user/Downloads/photo_2021-09-10_17-20-27.jpg"
+            "value": "v5lE4XssKJY.jpg",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "1, 0"
           }
         }
       ]

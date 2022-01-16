@@ -1,0 +1,39 @@
+{
+  "json_version": 3,
+  "name": "set_002",
+  "blueprint_name": "blueprint_002",
+  "hint_order_index": 1,
+  "items":
+  [
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1642357527,
+      "details":
+      [
+        {
+          "name": "panel_010",
+          "data":
+          {
+            "value": "Убьют даже бутылкой"
+          }
+        },
+        {
+          "name": "panel_002",
+          "data":
+          {
+            "value": "photo_2022-01-02_16-55-29.jpg",
+            "img_offset": "0, 0"
+          }
+        },
+        {
+          "name": "panel_009",
+          "data":
+          {
+            "value": "Команда",
+            "text_alignment_h": "center"
+          }
+        }
+      ]
+    }
+  ]
+}
