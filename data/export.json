@@ -1,3 +1,4 @@
 {
-  "json_version": 3
+  "json_version": 3,
+  "export_images": "True"
 }

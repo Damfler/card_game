@@ -7,21 +7,21 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1642357527,
+      "last_modification_date_unix": 1642423965,
       "details":
       [
         {
           "name": "panel_010",
           "data":
           {
-            "value": "Убьют даже бутылкой"
+            "value": "Призывает 2 \"Малознакомые друзья Гашука\""
           }
         },
         {
           "name": "panel_002",
           "data":
           {
-            "value": "photo_2022-01-02_16-55-29.jpg",
+            "value": "GkgfHBnB7DQ.jpg",
             "img_offset": "0, 0"
           }
         },
@@ -29,7 +29,7 @@
           "name": "panel_009",
           "data":
           {
-            "value": "Команда",
+            "value": "Гашук",
             "text_alignment_h": "center"
           }
         }

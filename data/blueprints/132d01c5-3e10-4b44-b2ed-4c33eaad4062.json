@@ -40,7 +40,7 @@
           "name": "panel_005",
           "data":
           {
-            "layout_position": "7, 44.45",
+            "layout_position": "26.9, 30",
             "layout_size": "10, 10",
             "panel_type": "text",
             "value": "<b>1</b>",
@@ -52,7 +52,7 @@
           "name": "panel_004",
           "data":
           {
-            "layout_position": "7, 44.45",
+            "layout_position": "26.9, 30",
             "layout_size": "10, 10",
             "panel_type": "procedural",
             "value": "Text",
@@ -64,12 +64,24 @@
           "name": "panel_006",
           "data":
           {
-            "layout_position": "56.4, 44.45",
+            "layout_position": "36.6, 30",
             "layout_size": "10, 10",
             "panel_type": "text",
             "value": "<b>1</b>",
             "color": "#000000FF",
             "text_font": "Arial Black"
+          }
+        },
+        {
+          "name": "panel_003",
+          "data":
+          {
+            "layout_position": "36.6, 30",
+            "layout_size": "10, 10",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FFDD00FF",
+            "panel_editable": "False"
           }
         },
         {
@@ -131,18 +143,6 @@
             "panel_type": "procedural",
             "value": "Text",
             "color": "#FEFEFEFF",
-            "panel_editable": "False"
-          }
-        },
-        {
-          "name": "panel_003",
-          "data":
-          {
-            "layout_position": "56.4, 44.45",
-            "layout_size": "10, 10",
-            "panel_type": "procedural",
-            "value": "Text",
-            "color": "#FFDD00FF",
             "panel_editable": "False"
           }
         },

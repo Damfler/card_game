@@ -7,7 +7,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1642357268,
+      "last_modification_date_unix": 1642424465,
       "details":
       [
         {
@@ -53,29 +53,58 @@
           "name": "panel_010",
           "data":
           {
-            "value": "Призывает 2 \"Малознакомые друзья Гашука\"",
-            "text_alignment_h": "center"
+            "value": "Крип наносит двойной урон в течение хода",
+            "text_alignment_h": "center",
+            "text_wrapping": "True",
+            "text_size": "3",
+            "text_rtl": "False",
+            "text_autosize": "False",
+            "background_color": "#15151500",
+            "color": "#151515FF"
           }
         },
         {
           "name": "panel_002",
           "data":
           {
-            "value": "GkgfHBnB7DQ.jpg"
+            "value": "photo_2022-01-02_16-55-29.jpg",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, -10"
           }
         },
         {
           "name": "panel_009",
           "data":
           {
-            "value": "Гашук"
+            "value": "Команда"
+          }
+        },
+        {
+          "name": "panel_005",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "panel_004",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "panel_006",
+          "data":
+          {
+            "value": "<b>5</b>"
           }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1642357380,
+      "last_modification_date_unix": 1642424621,
       "details":
       [
         {
@@ -105,6 +134,30 @@
             "value": "v5lE4XssKJY.jpg",
             "img_fit_mode": "fitwidth",
             "img_offset": "1, 0"
+          }
+        },
+        {
+          "name": "panel_006",
+          "data":
+          {
+            "value": "<b>{man}</b>",
+            "text_alignment_v": "middle",
+            "color": "#161616FF",
+            "background_color": "#16161600"
+          }
+        },
+        {
+          "name": "panel_005",
+          "data":
+          {
+            "panel_visible": "False"
+          }
+        },
+        {
+          "name": "panel_004",
+          "data":
+          {
+            "panel_visible": "False"
           }
         }
       ]
