@@ -20,7 +20,8 @@
             "panel_type": "text",
             "value": "Text",
             "color": "#161616FF",
-            "text_size": "3"
+            "text_size": "3",
+            "background_color": "#15151500"
           }
         },
         {
@@ -33,6 +34,18 @@
             "value": "Text",
             "procedural_border": "2.5",
             "color": "#121212FF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "panel_013",
+          "data":
+          {
+            "layout_position": "31.7, 13.5",
+            "layout_size": "60, 23",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#FEFEFEFF",
             "panel_editable": "False"
           }
         },
@@ -56,8 +69,7 @@
             "layout_size": "10, 10",
             "panel_type": "procedural",
             "value": "Text",
-            "color": "#FF0000FF",
-            "panel_editable": "False"
+            "color": "#FF0000FF"
           }
         },
         {
