@@ -1,7 +1,7 @@
 {
   "json_version": 3,
   "name": "set_001",
-  "blueprint_name": "blueprint_001",
+  "blueprint_name": "blueprint_003",
   "hint_order_index": 0,
   "items":
   [
@@ -104,7 +104,7 @@
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1642424621,
+      "last_modification_date_unix": 1642522210,
       "details":
       [
         {
@@ -158,6 +158,57 @@
           "data":
           {
             "panel_visible": "False"
+          }
+        },
+        {
+          "name": "description_001",
+          "data":
+          {
+            "value": "<b>При появление:</b> дает стан выбраному крипу на 1 ход"
+          }
+        },
+        {
+          "name": "Image",
+          "data":
+          {
+            "value": "v5lE4XssKJY.jpg",
+            "img_fit_mode": "fitwidth",
+            "img_offset": "0, 0"
+          }
+        },
+        {
+          "name": "name_001",
+          "data":
+          {
+            "value": "Антон"
+          }
+        },
+        {
+          "name": "cost_001",
+          "data":
+          {
+            "value": "{man}"
+          }
+        },
+        {
+          "name": "name_005",
+          "data":
+          {
+            "value": "испуганный дитя"
+          }
+        },
+        {
+          "name": "attack_005",
+          "data":
+          {
+            "value": "5"
+          }
+        },
+        {
+          "name": "attack_006",
+          "data":
+          {
+            "value": "<b>10</b>"
           }
         }
       ]
