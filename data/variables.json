@@ -6,7 +6,7 @@
       "code": "man",
       "replacement": "man.png",
       "force_tint": "False",
-      "color": "#E7F6FAFF",
+      "color": "#FEFEFEFF",
       "image_offset": "0, -0.3",
       "image_scale": "1.5"
     }

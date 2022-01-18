@@ -7,18 +7,18 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1642423965,
+      "last_modification_date_unix": 1642446388,
       "details":
       [
         {
-          "name": "panel_010",
+          "name": "Description",
           "data":
           {
             "value": "Призывает 2 \"Малознакомые друзья Гашука\""
           }
         },
         {
-          "name": "panel_002",
+          "name": "Image",
           "data":
           {
             "value": "GkgfHBnB7DQ.jpg",
@@ -26,11 +26,18 @@
           }
         },
         {
-          "name": "panel_009",
+          "name": "Name",
           "data":
           {
             "value": "Гашук",
             "text_alignment_h": "center"
+          }
+        },
+        {
+          "name": "Type",
+          "data":
+          {
+            "value": "{man}"
           }
         }
       ]

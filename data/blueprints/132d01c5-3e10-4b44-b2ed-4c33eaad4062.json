@@ -12,7 +12,7 @@
       "panels":
       [
         {
-          "name": "panel_010",
+          "name": "Description",
           "data":
           {
             "layout_position": "31.75, 17",
@@ -24,7 +24,7 @@
           }
         },
         {
-          "name": "panel_001",
+          "name": "Description",
           "data":
           {
             "layout_position": "31.73317, 44.43317",
@@ -37,10 +37,10 @@
           }
         },
         {
-          "name": "panel_005",
+          "name": "Cost",
           "data":
           {
-            "layout_position": "26.9, 30",
+            "layout_position": "7.2, 81.6",
             "layout_size": "10, 10",
             "panel_type": "text",
             "value": "<b>1</b>",
@@ -49,10 +49,34 @@
           }
         },
         {
-          "name": "panel_004",
+          "name": "Cost",
           "data":
           {
-            "layout_position": "26.9, 30",
+            "layout_position": "7.2, 81.6",
+            "layout_size": "10, 10",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#15C3E1FF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "Attack",
+          "data":
+          {
+            "layout_position": "7.2, 7.3",
+            "layout_size": "10, 10",
+            "panel_type": "text",
+            "value": "<b>1</b>",
+            "color": "#FFFFFFFF",
+            "text_font": "Arial Black"
+          }
+        },
+        {
+          "name": "Attack",
+          "data":
+          {
+            "layout_position": "7.2, 7.3",
             "layout_size": "10, 10",
             "panel_type": "procedural",
             "value": "Text",
@@ -61,10 +85,35 @@
           }
         },
         {
-          "name": "panel_006",
+          "name": "Type",
           "data":
           {
-            "layout_position": "36.6, 30",
+            "layout_position": "56.3, 81.6",
+            "layout_size": "10, 10",
+            "panel_type": "text",
+            "value": "<b>1</b>",
+            "color": "#FDFDFDFF",
+            "text_font": "Arial Black"
+          }
+        },
+        {
+          "name": "Type",
+          "data":
+          {
+            "layout_position": "56.3, 81.6",
+            "layout_size": "10, 10",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#15C3E1FF",
+            "panel_editable": "False",
+            "background_color": "#FEFEFE00"
+          }
+        },
+        {
+          "name": "Defender",
+          "data":
+          {
+            "layout_position": "56.3, 7.3",
             "layout_size": "10, 10",
             "panel_type": "text",
             "value": "<b>1</b>",
@@ -73,10 +122,10 @@
           }
         },
         {
-          "name": "panel_003",
+          "name": "Defender",
           "data":
           {
-            "layout_position": "36.6, 30",
+            "layout_position": "56.3, 7.3",
             "layout_size": "10, 10",
             "panel_type": "procedural",
             "value": "Text",
@@ -85,7 +134,7 @@
           }
         },
         {
-          "name": "panel_009",
+          "name": "Name",
           "data":
           {
             "layout_position": "31.75, 81.6",
@@ -97,11 +146,35 @@
           }
         },
         {
-          "name": "panel_012",
+          "name": "Description_blue",
           "data":
           {
-            "layout_position": "31.75, 17",
-            "layout_size": "50, 20",
+            "layout_position": "31.75, 29.2",
+            "layout_size": "59, 4",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#12C3E1FF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "Description_blue",
+          "data":
+          {
+            "layout_position": "31.75, 3.3",
+            "layout_size": "59, 2",
+            "panel_type": "procedural",
+            "value": "Text",
+            "color": "#12C3E1FF",
+            "panel_editable": "False"
+          }
+        },
+        {
+          "name": "Name",
+          "data":
+          {
+            "layout_position": "31.75, 15.7",
+            "layout_size": "59, 23",
             "panel_type": "procedural",
             "value": "Text",
             "color": "#FEFEFEFF",
@@ -109,11 +182,11 @@
           }
         },
         {
-          "name": "panel_007",
+          "name": "Name",
           "data":
           {
             "layout_position": "31.75, 81.6",
-            "layout_size": "36.08271, 10",
+            "layout_size": "51.45, 10",
             "panel_type": "procedural",
             "value": "Text",
             "color": "#FEFEFEFF",
@@ -121,10 +194,10 @@
           }
         },
         {
-          "name": "panel_011",
+          "name": "Name",
           "data":
           {
-            "layout_position": "12.7, 86.75",
+            "layout_position": "5, 86.75",
             "layout_size": "17.7716, 10",
             "layout_rotation": "-55",
             "panel_type": "procedural",
@@ -134,10 +207,10 @@
           }
         },
         {
-          "name": "panel_008",
+          "name": "Name",
           "data":
           {
-            "layout_position": "50.9, 86.75",
+            "layout_position": "58.5, 86.75",
             "layout_size": "17.7716, 10",
             "layout_rotation": "55",
             "panel_type": "procedural",
@@ -147,7 +220,7 @@
           }
         },
         {
-          "name": "panel_002",
+          "name": "Image",
           "data":
           {
             "layout_position": "31.75, 44.33327",
