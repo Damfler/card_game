@@ -7,7 +7,7 @@
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1642424465,
+      "last_modification_date_unix": 1642687214,
       "details":
       [
         {
@@ -98,6 +98,42 @@
           "data":
           {
             "value": "<b>5</b>"
+          }
+        },
+        {
+          "name": "description_001",
+          "data":
+          {
+            "value": "Описания не будет"
+          }
+        },
+        {
+          "name": "cost_001",
+          "data":
+          {
+            "value": "{man}"
+          }
+        },
+        {
+          "name": "name_001",
+          "data":
+          {
+            "value": "Гашук"
+          }
+        },
+        {
+          "name": "name_005",
+          "data":
+          {
+            "value": "типичный крип"
+          }
+        },
+        {
+          "name": "Image",
+          "data":
+          {
+            "value": "GkgfHBnB7DQ.jpg",
+            "img_fit_mode": "fitheight"
           }
         }
       ]
