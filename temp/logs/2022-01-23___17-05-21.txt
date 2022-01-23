@@ -334,3 +334,10 @@ Upgrading sprite asset [128x128_0] to version 1.1.0.
 20:05:24 [Event] TextureRenderEvent [Blueprint: blueprint_002, Side: Back, TimeMs: 5, IgnoreLayerVisibility: True, Scaling: 1, Bleeding: 0, Linear: False ]
 20:05:35 [Analytics] Event request: Project/Save
 20:05:35 [Project] Save
+20:05:35 [Event] ProjectSaveEvent 
+20:06:00 [Event] CloseAppEvent 
+20:06:00 [Analytics] Event request: General/Work Time:12
+20:06:00 [Analytics] Event request: General/Idle Time:33
+20:06:00 [Analytics] Event request: General/Total Time:45
+20:06:00 [Analytics] Event request: General/Close App
+20:06:00 [Analytics] End session request
