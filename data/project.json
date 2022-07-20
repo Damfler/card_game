@@ -4,7 +4,13 @@
   "creation_app_version": "2021.2.11a r206 Free",
   "creation_date": "20220114_122640",
   "creation_date_unix": 1642163200,
+<<<<<<< HEAD
   "last_modification_app_version": "2022.1.10a r314 Free",
   "last_modification_date": "20220719_200318",
   "last_modification_date_unix": 1658260998
+=======
+  "last_modification_app_version": "2022.1.3a r229 Free",
+  "last_modification_date": "20220120_140014",
+  "last_modification_date_unix": 1642687214
+>>>>>>> 200449a4b7a2893ffc69ee00bef7e9c79f03b151
 }
