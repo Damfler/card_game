@@ -1,13 +1,14 @@
 {
   "json_version": 3,
   "name": "set_001",
-  "blueprint_name": "blueprint_003",
+  "blueprint_name": "blueprint_005",
   "hint_order_index": 0,
+  "zoom": 0,
   "items":
   [
     {
       "amount": 1,
-      "last_modification_date_unix": 1642687214,
+      "last_modification_date_unix": 1657825629,
       "details":
       [
         {
@@ -44,7 +45,7 @@
           "name": "color_003",
           "data":
           {
-            "panel_visible": "True",
+            "visible": "True",
             "icon_fit": "True",
             "value": "<b>12</b>"
           }
@@ -83,14 +84,14 @@
           "name": "panel_005",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "panel_004",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
@@ -104,7 +105,7 @@
           "name": "description_001",
           "data":
           {
-            "value": "Описания не будет"
+            "value": "<align=\"center\"><b>При появление:</b>\nпоявляется \"<i>Знакомый Гашука</i>\""
           }
         },
         {
@@ -135,12 +136,26 @@
             "value": "GkgfHBnB7DQ.jpg",
             "img_fit_mode": "fitheight"
           }
+        },
+        {
+          "name": "attack_006",
+          "data":
+          {
+            "value": "<align=\"center\">5</align>"
+          }
+        },
+        {
+          "name": "attack_005",
+          "data":
+          {
+            "value": "<align=\"center\">5</align>"
+          }
         }
       ]
     },
     {
       "amount": 1,
-      "last_modification_date_unix": 1642522210,
+      "last_modification_date_unix": 1657826017,
       "details":
       [
         {
@@ -153,7 +168,7 @@
             "text_alignment_h": "center",
             "text_wrapping": "True",
             "text_overflow": "overflow",
-            "panel_visible": "True"
+            "visible": "True"
           }
         },
         {
@@ -186,21 +201,21 @@
           "name": "panel_005",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "panel_004",
           "data":
           {
-            "panel_visible": "False"
+            "visible": "False"
           }
         },
         {
           "name": "description_001",
           "data":
           {
-            "value": "<b>При появление:</b> дает стан выбраному крипу на 1 ход"
+            "value": "<align=\"center\"><b>При появление:</b>\nдает стан выбраному крипу\nна 1 ход"
           }
         },
         {
@@ -237,14 +252,93 @@
           "name": "attack_005",
           "data":
           {
-            "value": "5"
+            "value": "<align=\"center\">5</align>",
+            "text_alignment_h": "center",
+            "text_bold": "False"
           }
         },
         {
           "name": "attack_006",
           "data":
           {
-            "value": "<b>10</b>"
+            "value": "<align=\"center\">10</align>",
+            "text_autosize": "False",
+            "text_alignment_h": "center",
+            "text_bold": "False"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1658260930,
+      "details":
+      [
+        {
+          "name": "description_001",
+          "data":
+          {
+            "value": "Первый оглушает зонтом\nВторой добивает пакетом"
+          }
+        },
+        {
+          "name": "Image",
+          "data":
+          {
+            "value": "photo_2022-07-19_17-46-11.jpg",
+            "img_zoom": "1.4",
+            "img_offset": "0, -10"
+          }
+        },
+        {
+          "name": "name_001",
+          "data":
+          {
+            "value": "Братья"
+          }
+        },
+        {
+          "name": "name_005",
+          "data":
+          {
+            "value": "Ждут, чтобы избить"
+          }
+        }
+      ]
+    },
+    {
+      "amount": 1,
+      "last_modification_date_unix": 1658260998,
+      "details":
+      [
+        {
+          "name": "description_001",
+          "data":
+          {
+            "value": "Дает в колоду\n\"<i>Кусок человеческого мяса</i>\""
+          }
+        },
+        {
+          "name": "Image",
+          "data":
+          {
+            "value": "photo_2022-07-19_17-46-06.jpg",
+            "img_zoom": "1.3",
+            "img_offset": "0, -10"
+          }
+        },
+        {
+          "name": "name_001",
+          "data":
+          {
+            "value": "Антон"
+          }
+        },
+        {
+          "name": "name_005",
+          "data":
+          {
+            "value": "Dayz версия"
           }
         }
       ]

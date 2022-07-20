@@ -1,4 +1,5 @@
 {
   "json_version": 3,
-  "export_images": "True"
+  "export_images": "True",
+  "export_sides": "front"
 }
